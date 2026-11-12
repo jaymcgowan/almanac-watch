@@ -1,0 +1,16 @@
+{
+  "updated": "2026-11-12T10:22:48+00:00",
+  "items": [
+    {
+      "id": "watcher-online",
+      "time": "2026-11-12T10:22:48+00:00",
+      "kind": "system",
+      "badge": "Exchange",
+      "title": "Almanac watcher is live",
+      "body": "Watching SEC filings, the Nasdaq IPO calendar, Polymarket odds, headlines and prices every few minutes.",
+      "source": "Almanac",
+      "url": "",
+      "priority": 3
+    }
+  ]
+}
