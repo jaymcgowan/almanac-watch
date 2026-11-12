@@ -109,6 +109,7 @@ class Run:
 # ---------------------------------------------------------------- SEC EDGAR
 
 KEY_FORMS = {
+    "S-1": "Public registration statement (the IPO paperwork is now public)",
     "S-1/A": "Amended registration statement",
     "424B4": "Final prospectus (the priced deal)",
     "424B1": "Final prospectus",
@@ -184,6 +185,60 @@ def check_nasdaq(run: Run) -> None:
     run.event(kind="exchange", badge="Exchange", key=f"nasdaq-{section}-{snap['price']}-{snap['date']}",
               title=title, body="; ".join(changes), source="Nasdaq IPO calendar",
               url="https://www.nasdaq.com/market-activity/ipos", priority=prio)
+
+
+# ---------------------------------------------------------------- OpenAI IPO watch
+# OpenAI filed confidentially on 8 Jun 2026, so nothing is public yet. The first public
+# S-1, an exchange registration (8-A12B), a final prospectus (424B4) or a Nasdaq calendar
+# row is the moment it becomes real. Same machinery as the ANT watch.
+
+def check_openai(run: Run) -> None:
+    cfg = run.config.get("openai_watch")
+    if not cfg:
+        return
+    ignore = re.compile(cfg.get("ignore_names", "$^"), re.I)
+    first = run.seeding or "openai_seen" not in run.state
+    seen = set(run.state.setdefault("openai_seen", []))
+    for form in cfg["edgar_forms"]:
+        url = ("https://www.sec.gov/cgi-bin/browse-edgar?" + urllib.parse.urlencode(
+            {"company": cfg["edgar_company"], "type": form, "owner": "include", "count": 40,
+             "action": "getcompany", "output": "atom"}))
+        xml = get(url, ua=SEC_UA, accept="application/atom+xml").decode("utf-8", "ignore")
+        for entry in re.findall(r"<entry>(.*?)</entry>", xml, re.S):
+            title = html.unescape(_tag(entry, "title"))
+            link = re.search(r'<link[^>]*href="([^"]+)"', entry)
+            eid = _tag(entry, "id") or (link.group(1) if link else title)
+            if not title or eid in seen:
+                continue
+            seen.add(eid)
+            if first or ignore.search(title):
+                continue
+            run.event(kind="filing", badge="Filed", key="openai-" + hashlib.sha1(eid.encode()).hexdigest()[:16],
+                      title="OpenAI IPO: " + re.sub(r"\s*\(\d{10}\).*$", "", title),
+                      body=f"{KEY_FORMS.get(form, 'New filing')}. The OpenAI listing is now public on EDGAR.",
+                      source="SEC EDGAR", url=link.group(1) if link else url, priority=5)
+    run.state["openai_seen"] = sorted(seen)[-SEEN_LIMIT:]
+
+    month = now_utc().astimezone(NY).strftime("%Y-%m")
+    data = get_json(f"https://api.nasdaq.com/api/ipo/calendar?date={month}", accept="application/json, text/plain, */*")["data"] or {}
+    for section, rows in (("priced", (data.get("priced") or {}).get("rows")),
+                          ("upcoming", ((data.get("upcoming") or {}).get("upcomingTable") or {}).get("rows")),
+                          ("filed", (data.get("filed") or {}).get("rows"))):
+        for row in rows or []:
+            name = row.get("companyName") or ""
+            if cfg["calendar_name"].lower() not in name.lower() or ignore.search(name):
+                continue
+            key = f"openai-cal-{section}-{row.get('proposedTickerSymbol')}-{row.get('proposedSharePrice')}"
+            if key in seen:
+                continue
+            seen.add(key)
+            run.state["openai_seen"] = sorted(seen)[-SEEN_LIMIT:]
+            if first:
+                continue
+            run.event(kind="exchange", badge="Exchange", key=key,
+                      title=f"OpenAI is on the IPO calendar ({section})",
+                      body=f"{name} · ticker {row.get('proposedTickerSymbol') or 'TBC'} · price {row.get('proposedSharePrice') or 'TBC'}",
+                      source="Nasdaq IPO calendar", url="https://www.nasdaq.com/market-activity/ipos", priority=5)
 
 
 def _num(value) -> float | None:
@@ -408,6 +463,7 @@ def main() -> int:
 
     run.guard("edgar", check_edgar)
     run.guard("nasdaq", check_nasdaq)
+    run.guard("openai", check_openai)
     run.guard("polymarket", check_polymarket)
     run.guard("news", check_news)
     run.guard("markets", check_markets)
@@ -418,7 +474,7 @@ def main() -> int:
         state["seeded"] = now_utc().isoformat(timespec="seconds")
         run.event(kind="system", badge="Exchange", key="watcher-online",
                   title="Almanac watcher is live",
-                  body="Watching SEC filings, the Nasdaq IPO calendar, Polymarket odds, headlines and prices every few minutes.",
+                  body="Watching SEC filings (Anthropic and OpenAI), the Nasdaq IPO calendar, Polymarket odds, headlines and prices every few minutes.",
                   source="Almanac", priority=3)
 
     feed = load(FEED_FILE, {"updated": None, "items": []})

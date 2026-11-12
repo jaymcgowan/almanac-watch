@@ -5,11 +5,13 @@
   "ipo_price": null,
   "polymarket_slugs": [
     "anthropic-ipo-closing-market-cap-higher-strikes",
-    "anthropic-ipo-date"
+    "anthropic-ipo-date",
+    "openai-ipo-by"
   ],
   "odds_alert_points": 7,
   "news_queries": [
     "Anthropic IPO",
+    "OpenAI IPO",
     "Nvidia Jensen Huang",
     "Nvidia earnings",
     "CoreWeave stock"
@@ -31,7 +33,7 @@
     "The Information",
     "Sky News"
   ],
-  "news_urgent_pattern": "price range|raises|raised|lifts|increase[sd]? (its )?(ipo )?valuation|prices? (its )?ipo|priced|delay|postpone|withdraw|pull(s|ed)? (the )?ipo|ceo|resign|ousted|steps down|halt",
+  "news_urgent_pattern": "price range|raises|raised|lifts|increase[sd]? (its )?(ipo )?valuation|prices? (its )?ipo|priced|delay|postpone|withdraw|pull(s|ed)? (the )?ipo|ceo|resign|ousted|steps down|halt|files? publicly|public filing|roadshow|ticker|S-1",
   "price_rules": [
     {
       "symbol": "NVDA",
@@ -91,5 +93,16 @@
     -10,
     -20
   ],
-  "news_max_age_hours": 6
+  "news_max_age_hours": 6,
+  "openai_watch": {
+    "edgar_company": "openai",
+    "edgar_forms": [
+      "S-1",
+      "424B4",
+      "8-A12B",
+      "RW"
+    ],
+    "ignore_names": "fund|series of|\\bLP\\b|opp ",
+    "calendar_name": "openai"
+  }
 }
