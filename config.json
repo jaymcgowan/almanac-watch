@@ -1,0 +1,95 @@
+{
+  "ticker": "ANT",
+  "sec_cik": 2130357,
+  "listing_date": "2026-11-19",
+  "ipo_price": null,
+  "polymarket_slugs": [
+    "anthropic-ipo-closing-market-cap-higher-strikes",
+    "anthropic-ipo-date"
+  ],
+  "odds_alert_points": 7,
+  "news_queries": [
+    "Anthropic IPO",
+    "Nvidia Jensen Huang",
+    "Nvidia earnings",
+    "CoreWeave stock"
+  ],
+  "news_outlets": [
+    "Reuters",
+    "Bloomberg",
+    "Financial Times",
+    "CNBC",
+    "The Wall Street Journal",
+    "WSJ",
+    "Associated Press",
+    "AP News",
+    "The Guardian",
+    "BBC",
+    "Barron's",
+    "MarketWatch",
+    "Axios",
+    "The Information",
+    "Sky News"
+  ],
+  "news_urgent_pattern": "price range|raises|raised|lifts|increase[sd]? (its )?(ipo )?valuation|prices? (its )?ipo|priced|delay|postpone|withdraw|pull(s|ed)? (the )?ipo|ceo|resign|ousted|steps down|halt",
+  "price_rules": [
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "down": [
+        3,
+        5,
+        8
+      ],
+      "up": [
+        5
+      ],
+      "why": "Nvidia sets the tone for AI stocks."
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "down": [
+        5,
+        10
+      ],
+      "why": "High-beta AI infrastructure; shows risk appetite."
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "down": [
+        3
+      ],
+      "why": "Anthropic compute partner and placement buyer."
+    },
+    {
+      "symbol": "^NDX",
+      "name": "Nasdaq-100",
+      "down": [
+        1.5,
+        2.5
+      ],
+      "why": "The index ANT may join by fast entry."
+    },
+    {
+      "symbol": "^VIX",
+      "name": "VIX",
+      "kind": "level",
+      "above": [
+        22,
+        25,
+        30
+      ],
+      "why": "Higher fear tends to hit new listings."
+    }
+  ],
+  "ant_levels": [
+    20,
+    50,
+    100,
+    -10,
+    -20
+  ],
+  "news_max_age_hours": 6
+}
