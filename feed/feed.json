@@ -1,6 +1,182 @@
 {
-  "updated": "2026-11-13T12:41:29+00:00",
+  "updated": "2026-11-13T20:06:06+00:00",
   "items": [
+    {
+      "id": "news-0f72485bdfcd31dc",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "AI believers hold the line after Nvidia ructions",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2U4di1PSkNYLW0taE9VUTVUOUVJbXd3UVZCSGFpbTBwSzBXcUZ0SWN2OGVQV081Q0FhVDZld2FNdDByUjN5cEFhS1VCeng0LUVjUjB4LTdfZGlXNklTdm5LeHZxQUJ1b0Mwa0xqdjVldzEzWkpXYUVXQm8xbW5vc3A1b24?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-9fce1735e0386beb",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-13f3776357b8f3a1",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-cc1b2c0a64cb4229",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2RhUkEyVHk2X2pkVmN0NXBrOG1Ja24tYU8tNUJnTUVwd3hzOEdLRHFLbE1ZZFl6R1ZBQ2NYdUw0VHMzT09rYzR0NXNZMU1JVDFISGZSQlF4VVpWQ0EzX0d5UkM3bkRkUkJDYXg1bW5WRUVRN2ZURmV6YXRUdWMxR01QLUtRZVhGd2MwQTZNOUNZV29hOXpFcnVMVVktNURkY0hWM1N2czZZNFpYWjk0YkZhalBfdw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-3873e4b398adbda7",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVpFRlZuUDlQYXJ5M3NqNkp0elo4Z0NtcWI2V3Z6STA4T214RHVieTBCQzdTYXJnaEhOdm1PVTFCQTloTHF6VEhuU1E0dVBmQ1JVOVplODNhQ3Bab1JGYnVuMEJ0NTJFYllsM085NmprTVhaNWhLTS1TLUliLXhpb19naVpLUHlpWHB2NWZNMEVzMjA0VG5VcGhYeklKaXU3NHppS3YxaEp6VlZSdjJ6UGlZU1hkaEFPbUVFNUJXaTY?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-45c88c110a1cb5e8",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Three tremors have shaken AI",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2c4clVPdzJ4VlRfbExtX3pHaVp0MFBUNEtSUEd4UmlITHNUZ1ZSS21jUFI4bm9OOW5RZy0yNE5uZWJWSU9BellnS0FPV0d4ZDdLWGliZTJsYUJSNUU5Nlg2WWNmVEFxdW1kMjk3S1AxdW94aWF6RG10VFhCX19fUWRqN1A?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-0f4f5821b94e8345",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic's IPO will be a bellwether moment, says IBM's Gary Cohn",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG12dzdpako1WUVLekRFSDBhQ3NTelI4aDhXbUIwRGlQMm9qcnlObWZJdnhIazg3Rm1jbjFGQUJ1b0RzRDNZaFlra1dWQk1qMEhHVWNMbVBKODlEbTVaeHJUSElMOEFSSGRtaUFZSl9VRWkwTWZwTjU4aDVNbFN1TzZrcDFpSmdLM3ZoSEIwRWtDRElyRHdJNE5TamdWS2p1Y3g2TXZzVUs?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-e089b629e5e29b77",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic to IPO amid Nvidia fiasco",
+      "body": "Axios. Single report until confirmed by a filing or a second outlet.",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sUGk1c25oSHF3Vm13T3MwOVlrM2NnYzhrTnhCTjZaTHdOWURwVmlKTTJpZDhta2VtYmRTQVZrM01Qc3B5U1J3clZLZEdzV2REYXJMQWR0QTZEeWptRWljQWFCNkRCanJianRnU0IyYUZfbWhx?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-5afbc180b0c7d912",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcloySmU0ekIyaV9vRXNHWHNUZ1Z0eHVlenVrRW9PNDBhNTFOVEtiNUFCSk02ci1sOWVabGI5dEtjTUxzUldjTWxFeGdUVTRVZVBPY1IzWVFtOFd5Y1V6UGVRMGRvT3VrbE84Qzd2ZnNyOUxPZ29hWXg0Q2ZMWTk4Wi1aVDFjdHNPMWVlNWxjYWVfSzBZYThDWDBBcm9wUnY3SUdZVWFVMlRfc2Y1VEpzRQ?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-094cee80e73d5f28",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Watch Ackman on Huang's Exit, Anthropic IPO Roadshow",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2xfbTN5OExKVWNMUV8zX1pYLWY2YXROS29DV3k4UEhCb1lZWFlLODRUWEpkYzQyY2hteTJmdmk5cElkTWNLUGs1bVVvMm5QdFBLd0xnSTIwem9JRWdla0hucTd3NldKNnduSjlBbE1ONWY2S0tzaVJTS0FiN3BXX3dNOFFEcVZMdlZsb0VRLXd4OWJFYnVHRC1ydlhRV3czb0E?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-d50496b959250d05",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Amodei and Dimon hosting livestream ahead of Anthropic's IPO",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkw2LWtraW52QlloekxTRm5DQ3AxOVdKSnNPNU03QXFfRjhtc3ZCQ0pwU3VKYVlma1duSjR1Vm9JeldVV1hRbTZRQkU1UXZXNERGWXBnaE5PWTlydkFUUHh0RWdXa0hEWjZUVEdaMkFzTGxHamJNRXFtM2lobUw5WGFNdWJuWGRoaWlDWFRxSmhJSUpmbXFDZHpUTmVQbFN4TXhBRw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-4c79e7010de80597",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Watch Nvidia Fallout, Microsoft Outage and Anthropic’s IPO Push",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUxtb2c1cjUwMXlmSEI1ckVkYW5CU19zS3dYTkVKT0huSE5fc1EzaXJ3U3I2dWhSSl9tOGUzVHdSWTNaN3VsQnlBc0xCQ1ZYbnNqM2J6Q0taMDlEdjhHYzFzZk9RbndTc0RaRGFyOEpwV1JNMUlfbTZFUW9oQS1zMUVWREpuTEE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b97d667a9fb85c2b",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHZzSkNrdXkyNGh6enBWc0xtLVE0UkpKM2hadjNwc0wtV2t6SzJHVE9KRXdEYkZRaTZTdVlKanFocEwwLTc0OUJ3SlVacXNiV1RyeEdtTENBLUNKVWZwdTZqc0h6dHlFaFJWeWFESGJ3X216bmdBZHVfci15cmQzbmk4YkZpSGpaNFctWlVPcEkxZGN4M3hXUHg4azd0M3R2WjFjc0ZtTFhjYnpMSm1Od2h2Yzl3SkNB?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-9c4b41af242499e1",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXR2WDdyNDdpUjZDdi16dlZpZ2MwSmZGZkFCbUtueHlhMlF1Y0RnZ2V4VGNfX2NucnhQbjVaSWlFa0hteUZ5TEQ1QmRRdmhMdHFhZ01IOHVvdUxhSUFjbTZUWlZmNHV2SWtCcmxHdktzd0s3SG52NVJFc3RlWGdiOWc4SXJ3c2o5VmI1Ry1WUXFpd2tfTURzTW13TW1OS2JEeXcybUJmVkJYOV9EM28wTDF3?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-53da7e6d5898e9d5",
+      "time": "2026-11-13T20:06:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSXNLRzR5M3ZxN19lenJjZDNOMmV3RnBQZXhWcU85cVdSMGZoMHNlek9pWjV6dHpVeFpJbzhGMkZQbHo1a0JZbzZRTGRweWVVSWJEWU9OU1Q5S1dDWWtBcndLSGFicHVMTE0wYVRYaUxaVTYxalpBOWJNamRibUp6elpCX0Y3OXJXREpDMERPSlNUTDhnZHJaZjgtdGN6dVVseGJOOTd0VnJRU0RITjMtbTNEeXU5TnBFdTFPRV9JTzB2SDJ4TmVzVFRPVU5IbmhZTTZj?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "poly-anthropic-ipo-closing-market-cap-higher-strikes-202611132006",
+      "time": "2026-11-13T20:06:01+00:00",
+      "kind": "odds",
+      "badge": "Odds",
+      "title": "Odds moved · Anthropic IPO Closing Market Cap",
+      "body": "Favourite: $1.25–$1.5T (44%). $1.25–$1.5T: 36% → 44%; $1.5–$1.75T: 27% → 19%",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
+      "priority": 3
+    },
     {
       "id": "news-627813028383696d",
       "time": "2026-11-13T12:41:28+00:00",
