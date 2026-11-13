@@ -1,6 +1,127 @@
 {
-  "updated": "2026-11-13T04:47:39+00:00",
+  "updated": "2026-11-13T12:41:29+00:00",
   "items": [
+    {
+      "id": "news-627813028383696d",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia CEO Huang’s Fall Threatens US-China Diplomacy",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmdMckpDRlFGRWtkNG9KUk1YX3FHVHc0UUFWc09HTGd6dHIzaV8tV0ZUUVgtUEZmd2ZsR29MNXQ0YzU2N3JBeXdMZGItUURzakdWQzhsNFEtdHd0UC1nMlNSalBGRGNsbTl2cUd6ZnFNYjVJNEFCT0kwNzRhcEU0ZGlaYlJsWUFYNFNpeW5wZlRtSVNRZXpOVjNvR2p4cURuNUIyWHpmVTlvQmNKZmFUSkQ3YkNwcWhHU0t5cWE2Wl9YM3ZzNjE4?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-38f64c87d55f24cc",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "The rise, reinvention and uncertain future of Nvidia without Jensen Huang",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRThoQnpndm40V29wR3BidE1QVUF4TkNqcnlUQUJGM2ZkRXljX0ZWRk1iNlp2VUdsVGtVbjFKTnFzdHVGWVdRMGc1dWxzakNsY1VHelNvQXVzaExLRXNFbkpHYVhjVThEUnVkWWNDVVNxcDlqdkhSdmN2VVduTWJobmFZejM0bEYyanZmSXhKVDVVUVh1NFJVc2l5X3VKZXpzZ1cyZGpDLXhaeUNJX0RJ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-450ce78ca68e0b25",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia’s Board, Free of Star CEOs, Takes On Tech’s Most Important Job Hunt",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTJ4QkRsNzlOaUVCWDRqLUhtUlZEVGcwWTd3dnJtbjl6MGZZdHBwakxRMm1nTG1hRi1TU1V2Q0dhZ245VUgyLVNibkhla1dmTGhibmdlY29jcTZvcFE5Sk9CaGxES2NEY21acktVRWlmZHM2dmEyTGxHWEVSQVZQc0ZtVTNQLS1zd1ZlMlhENjlNdHVyemxYTmhNWVhjUTdDaFRvV3ZXWVpmZUFJUWR2NjNZV01ZTFdNRnNB?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-4ea09cd5865d04aa",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang’s Backers See Nvidia Exit as Lesson in Founder Control",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkViNUZYY0FjUlhnMU5mZF9YWERGUEJzTmUzYzJmOWIzSUw4SmJ0VFJUd2NaYWptaHJmWGtob1hlR1pEdFZpb3JVYTVsREZicVRMZVVRNVhfcmNhS3JjaUV2bGNNQWtyQnFDSlFtc2U3LVhneEpXVi1DY3hrZ19IVFNaOEx2QnZBQjUyZmVwWTM3RHBraWJiRnF0Qk43WXplNW9EWGpESVBCeXBOZkZEZHpOZUJaQXJyRkxiOW04dFVJUlNKdmw4WHBySTMwQ0k?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-3ebe1da7f9d21a9d",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-90d182a17aafa01b",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQanFCMXBvUGczM29qQkFnZzJEMjFHN2k0ZVZhWDZYTlUwVERqeGtNNGpmWjE0Y0J3RC1aMGVxd1JYdWNaZnAyclVTVTVreE1kSUlkclJXNUE0MHJjclFUQndxVnlNbTM2YUtiRktvWWFwVGtIRmF1T2Rqd1U5Z3BIdktScE5LVF9IclB5N1MxQnN4eGF2aG5TM0hDdEpZU0lZWk9UeC1zRFJ4SXF3OHFBdnAxSS1UUldIX2k4a1UyXzUza2lzYVdjSmJSYXNLZlFUWVJKYTFsak5UVTRpVmdDU3dYR0wteUtXZmpLS0xCTWJ2TjN2Q3V2U2pVdFlXMjliSFE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-c7a3868f76a9480c",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang latest: Scandal-hit Nvidia founder asked to testify to Senate - as details of Trump call emerge",
+      "body": "Sky News. Single report until confirmed by a filing or a second outlet.",
+      "source": "Sky News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1ExZk1lX2FjN0RzT2dqQ3pjZWxDNmpjOFc4bWZzOGk0QTd0MzhibnN1MEctemNLOGwzLUFBZkM0ajdrYW5WcHBrNXZkQ0NVYUJDLU1kMFdzMU54TGFsLU1LMXdiWnhaU0tvTnBXa0lpVVgwVWw3dFBIWEg1ZDBtX012RDBpcWNWM0wtN1dIZFRMYnlFOXZVcHdfTmwxU1FwNVp1WHNaV3dHMndFWm1LTTFuaC1oSXBadC05WE1SUUJRWWhrdXc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-80ba4d467be6455e",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBud0Z0dFdnYkNaUF92WkVrRnVycFFCR0hqOHhIU29VejVtYlpoQ3ZzZW5malpOSmtGVG1OSGh5MDh2Vlc5b1l2Zm9ZaFB6ZFRqWTcyUXdpeXl4blJXTVE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b8976fc1726b3db2",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oY3E0Rmw1YmVIX0RQTnBVRndDZDJTOVI4NVBRR2ljeURhS1FrZl9hbS1iOTQxOTVueVI4dG8waE5xZE1uMHc0VFJETzRTMXJfZnE2bEREeU93cGp6MW15SE0zeWlpMG5JaDRUTmlKMkc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-323839707c88e082",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMd9IBgwFBVV95cUxQRGpRX1ZWVEtRV19IaDNsX3RYT0pXaFJtOXhSWFRpd0w4NDdpTGpMQ0FvdjBkTXJ3alI3b2Q1NkFjWTYxck91LS1fY1hwdXAybnRMOU13dVNfT2Y3Q2FScVkwbXVnbE9UUUFyY1pQRmVObjVnQWhOZW56SmJwWnBIb1hnbw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-3301c78fe54c5589",
+      "time": "2026-11-13T12:41:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Wall St Week Ahead Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkhwN0xoWW41NzBTZjRFMi1RV0tnYW84ak1zMGU3UHpxTkZ2UHNqako1QWh6NDRkRG5Eb1kwY0RCS0hydXVzTkg2clUwTXNBRUthM1R0SUg0azdDZkhaZlpFNzMtSDdNa09jZW9yb3N4UzdWUHpiTUl0cXl3dTQwb2M2V2R0Q1lSUFppUVVVaWYzejdsZk9GeWc4dE5oNGM2LS0yVFhkX2lpODlBMFZnVlJlVGJMb21XNE02c3BMa1U?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-fb299b048cb380b5",
       "time": "2026-11-13T04:47:38+00:00",
