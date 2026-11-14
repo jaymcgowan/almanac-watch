@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-14T00:52:52+00:00",
+  "updated": "2026-11-14T07:25:30+00:00",
   "items": [
+    {
+      "id": "news-9ab7a7921c4b84fc",
+      "time": "2026-11-14T07:25:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "CoreWeave Jumps, Boosting the AI Trade",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUhQeDlhV3c3SWxRRWdDTzFpclEzY1RaNXZUdWhIRllXNTlnVk90NVVSNGR4c2JlaG1tak5GSVdZS3VaQkJ6N1QtNU1fSnhCNVF5a3JjX29uWHE1ai1uT045Y2tXd3N5YmQzRi1tOHRTeEM2Z2hkZlB2TmthNGNobDZ4ZDhPNlEy?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-d268c79f9dc98579",
+      "time": "2026-11-14T07:25:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Donald Trump will not raise Nvidia spy issue with Xi Jinping at summit, officials say",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkI1ZVNvLXc5RXBHWkJ0Z3p2UDNiM2I0Y0dFS2VEajRHaURMYk5lN0ZDQktjZnNqVTFkUHZCMHhGT0E2aGFkTFhOcm9NU2YxODlwNElTRDhXOURZWGFiczhhZEsyazlzYlN0Vi1WQVVKLVpRaXdmakJ6MUpuQUoxQ3NRQV8?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-73af655c3b4a17d5",
+      "time": "2026-11-14T07:25:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-eff268b51fb44b60",
+      "time": "2026-11-14T07:25:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-4dd7bae3f585eeff",
+      "time": "2026-11-14T07:25:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia’s cult of personality was bound to end badly",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUi02Ql9yR2ZKMTRBTU9rTlN2ZW9FREdHMEIxVHBNVW5tczVtNW9kaWd3NkhlaGQ1Q254cUp2YTI5RWZZOHpkMzRWMFEtVGt3Q1l1Q1hwVjFzYmpLdThCSVp1eUVielFZbHFMbG4zWnQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-5ff46f2784d50191",
+      "time": "2026-11-14T07:25:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Companies love a ‘rockstar’ CEO. Until they depend on one",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbW1PZXVoSGdmTGlFYnNLU0FlZHQ3RUtWQ0FnZFlWaWlSUFI5dHdfZEpEVkFOUUZTelVubTAzVnVkWFBmamV4Q20zaXlPOUNzd2NObXZqbUFlaUJXT1Jielg5X3FIWkluak9HMzcyc25jeWFROUFXX3dfbmFpRmh6UURn0gGHAUFVX3lxTE5IaVp3TEhLSldRaFVHRUlHZ3FyenFtbWlTdWdlb0hmWVhKVGlidDV1S0czSkQ3TXh3M0ZueW5kRk9qa1BPU3kwa2FrZjd1OUd6Y2I4NkN5MjBnNVJ3S3FXTXhiaGRIT1RaQkZZZ21uWG1kTmRvSzhBVUFJUjVjWG04cThYRVFOcw?oc=5",
+      "priority": 4
+    },
     {
       "id": "news-dda96e6058935cf9",
       "time": "2026-11-14T00:52:51+00:00",
