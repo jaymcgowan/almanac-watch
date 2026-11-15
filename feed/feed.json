@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-15T02:53:17+00:00",
+  "updated": "2026-11-15T10:30:25+00:00",
   "items": [
+    {
+      "id": "news-3db311a934e986b9",
+      "time": "2026-11-15T10:30:25+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Megaspeed says Alice Huang left company in August 2025",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-769d7c08d8515dd6",
+      "time": "2026-11-15T10:30:25+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2hIYjYzdUpBSWVNRE5WZkY1bG4wck43OTNFSERLbVJkdmY0WnlSVklFbU5zOXpNdGJYVzQxMFJHUGtJVEZaWm9PbWFTMURPekk0V1VtZUF4SzY4c2x4NDJwNHdSbkVPZlN1RWdIYzUtZXAya3lYaFNfckRBdDRTNHpoZEo?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-bd558a7bbfc3d07b",
+      "time": "2026-11-15T10:30:25+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGt2MzQzQnpsSXZBUFN6aW9ja0tyNVBWbmxMaWw4MGgzRzdkOWMyM0RINzRoaHVfTzlseFpfa1JaSGdpc3dETUFaMXRVeFJNemxIUXFmRXYxMUVmSEIxSTBGQVZKUkpoR1g1bUNaNGh5RDdENGYxcFFFVkxNVXV1MDE2clUxUdIBiwFBVV95cUxOTkpvNzM3VUkycnFlRmhWZDBnTW5taXU4V044R1VFdkMxLWJ0NEZoR1dqOGZGV2steFRJZWRTcDYwMlIyZFNyWkpwQzhRTmJObU1mZEYtZ2EwSjUzdncxdzVvUGRKbGxNSGdTSkJSQThGVkZwcGg1Q1I3RHBaMUl2TWZpVFdxTUVoenlB?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-bb63508b92494a42",
+      "time": "2026-11-15T10:30:25+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "What will Nvidia’s post-Huang era look like?",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KMk1CRjNfbC1mOTFXTGJhbWQtUHFWUDN1NHdBdWxUcWhRWTdCWGlIUF92c1c5X3NXSkVzTzVsb1FNZDlPU1U1UXFvOEJiRTFWUkpfY04xc252TllpTTR1WnFzSWFkOXZDS18xU0hKWVQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-6da70ea5699a3d48",
+      "time": "2026-11-15T10:30:25+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-fbbdc33e66306508",
       "time": "2026-11-15T02:53:17+00:00",
