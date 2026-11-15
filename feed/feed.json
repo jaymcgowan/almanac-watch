@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-15T17:23:41+00:00",
+  "updated": "2026-11-15T21:59:18+00:00",
   "items": [
+    {
+      "id": "news-872062f5cf666e00",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+      "body": "Axios. Single report until confirmed by a filing or a second outlet.",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1Rud2hiNnZiMFQ2RlJYZUxjdkg3UElselZNd0d5Mk5EYVpfazI3NlMxRk1jbEFES1RhcE1QRXpXeThnVTRNcHQ0TURMdjF4RkpHNGpPQ3o0OFhoREpZV3NGaDg3cE9id3J4U3FOcDVLeVI0N1RNbEZ3aDA1WU9ZRG5ZUQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-c94ca11a947a63e2",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1ZOWlF3ZUlxWGYyZm9kX3NnZUsyNEpjYXhKaWMxY3hPbnRvSlJYeHc3ak9lejRYcHdmWjB2dk54cmMweklHdXdpVDdmRm9yNE91LWJKV2VoUC16bF9sdzRTM2NhWk5MMnBROXJ2UHA2SU0tSDNpeEZLZkxJZGg4T1laVHUyU1Fid0dtYjQ3c0tHMFRsOVp3TndoeEUzaElUSkxVT3hlOGQyZTVPZDF3emxB?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-0391940b79a69cec",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3JnTVhjc3hod2dzTHF4UTlmNHZFTTJDOUJOM0NWRnhiZk9URldUOHAxZ3ZZLWxtQ0lGU2xuSFBqM3ZtQkxIWnJqVzBSU1dsUTdibGdsQTl3SVhjZ3hwOHlxQktxREIycHI5UjFSMEVVU3JuQWRydXdMUHRnNkFqbFZGLWI?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-41bac70b7ba7797b",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUS0wX1Z6cGRDOHZsRkh5ZF96eHZzczdQeDNHa21rT3JQZ0l2X3lXYVQ2NlliYWs2V3pCTlZPcFctSl9EeXU2VDhwRHlmbnZoQ19mWFhBY1pkcnZDRldzUzR0eG9hYVhPMzBKcEllQzFJdld6SnN1cjdzYktzWHJGUXRaQjZZWG1fNmVTbG1BNzVzTzFtcXNMWkp2R1d3cktlNXo1SldBNW5RNld2TW1yMw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-f370d44135116b6b",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Company caught up in Nvidia controversy launches internal investigation",
+      "body": "Sky News. Single report until confirmed by a filing or a second outlet.",
+      "source": "Sky News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW5pdWZ5TDlLTE1pX3JfcndIZktsa2Fac2FMY2dISk9HeVFPX0l5R2ZLYWVWbG5EcHVrNVZWbVNFcVBkYW45aG92MmZQelJ4a2F2dV9CVVBjaXg3a1V5al9vNVlNdDBUdEVuTXFwQk1FY2otYkVUTTlFdGNHN3lmUWFVSk9OdVhtLWYzVnZ5Q1BSbHpYYmF6Y1MzTGVQX0p3eWpEUWZMOWZhOEk?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-94fb009283ad3dd7",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-ff2e701f06c38986",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Stock Futures Begin New Week of Trading Ahead of Nvidia’s Earnings, Anthropic’s IPO",
+      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vc2JoVGI2aTdJQ01weHBLSXpQM3lqd3JJWjVXY0x0dHdhdmNvYUtpemU2QWhWNEJrV3ZUbkY3WW5CVDVFcW5ESFA0Z2YtWlc0c3hHZ19UUHkxQnB5enp2MFNQc0lsN0Z3VkFNb3lFY0pJT2lZZjU3SVdB?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-cbecf199d319787c",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Is About to Become the World’s Most Important AI Stock",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0FXWUttSDRhNUNacC1GM0hiUWtnSVRoamZreG5QRkFqNlZVTHdSUjNNeHNCNmhGWWZBcGxiaTBIcDhvSDZxNExuclFYRlBJTXFuRXdjd2xzNkdpZ2RkblFZYlFNNnBkcHdfU0VRQXhvaWNaamU2SUNNdDNCVTctZnB5cUZiVmFuXy1aWFNqRWlXQ3pZSl9NcGQ1MFFnWEZBTHdaZE9GNGI5cEJSaG1pQkhGNA?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-35d91dfc4b2dbdac",
+      "time": "2026-11-15T21:59:17+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic IPO to further fuel the AI news cycle",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDlQQXRRTW1SQk1YR1Rfd1ZZQkhfZVF2SEpfMUJLSEk3d21tWE5telBvb0VmOFpjTG1mdzd0cmFMZE1JeGRNRkU1ZmxxaUp5eGdUZXNXRTg1enlkU0tSS2RKeUhjbFBaeF9EVGhhTWd0ZHdrWE1jT0p2S0Fka2hVWExfZzA?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-6caaee7d93f70625",
       "time": "2026-11-15T17:23:40+00:00",
