@@ -1,6 +1,127 @@
 {
-  "updated": "2026-11-15T10:30:25+00:00",
+  "updated": "2026-11-15T17:23:41+00:00",
   "items": [
+    {
+      "id": "news-6caaee7d93f70625",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0FLQ0NMYkFoSENpZEJTOHNiZUFzcFlnXzhfY19VakFuR0dHS3lpcmJLY2h2ZjQzWHo5ZVVzU2VOTHdCWWV2R1NGcEU3dVV4Y3o0Um1yR1VuVkZ2NE4wQ01NRnhFanAxR242dXVVYWxLeW52enAxalYwVHhwaVJTODU4VjZqMTZyckZQR1pNbWRXWFkxeXIxVkstc05STzR3M0FfWXJvczZJVV9PRWhWNzA0Z0wzU0pydzJva1NSVWw1TXNzLVA0?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-a9f2666485fe8681",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "House Chairman Says Huang Agrees to Testify But No Date Set Yet",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeE13bVBYcUNqZUZxYjdnVG9WaGh2TTBITUlPdUtVMFJrem95UGZkcmgwTk52NFV3cm9SM3pLV1JKeld6YjVkSUlocGRzQ0lRTUIwemxidTNPTlFqZXdsemR5XzdHc1ZJVlU0N3hvdHZINFpHMERwbkdvc1VtUUM1RFRXOTRPUzJzbjFVME1mU0ppb0dDUk5oRWNjeWRNUlFpSkl5R2hBRGhvbGI0V1Z5RnhodTQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-2b1bd691cabd5295",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Bessent says Nvidia must 'go outside the company' to find new CEO",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-1549eacf44316bb4",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "When the boss has an affair, the whole family business can pay the price",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1VqYV8tQ0dHZFhOQkMxYVNRMVRlQjhOY3N2QXRJcGQxeUpSMnZMMFpSUF9tcmxWcnRxeC05akFGcXN0TC1xaTN4M1F6Y04xWnpRZ2l6Q0xUaEZHWWQ5OGtBWDVzcV9ONF9xekVjU202dFV4d1BGbER5VzZSbm1ZNk96ZTU0UmNRQjdPYk55OURWUQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-8cc50e7e7e18a158",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang’s Downfall",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZDl3ZWFXbzYyNDZKMlV3Vk4ybU5ZclFSNmcwZDlPa09pUi1XRmV5ZDdJRlBMMGl2SThNY2dGY1Q4SExpdHVRR0NwUVExd2I2d0JVUndKOG1PYXYybGlIRGdGYUw3T3BtNTdR?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-e40e53416ff76ca0",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Will Nvidia earnings steady the AI sell-off?",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRDUmp4Q3pKeGgxSDFSVTN1S1pseVh2ZVVhcHkyUDdxdjVCVVVfSGtEaTl1ZjMyVU5HSndJdlBZb1dKZTRsUHpNLW1iT0JNOFU0Q2V3d2xuT2plQUJiZHNSdDJ1c0FYeEpjQzRhSlFSTEdrcDBnbTluVkJIMVJiVXNtWWU?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-63b86de4e0c448dc",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92eWpwdjBvWG9Zbnd0XzRDN25Oc1M0Q1hGdVRzSHhqdmpjRFNpektZT0Vfb3hPYl82WXp6dHBtSWR1VGZRdDVIMWVETWdZUlJaWGRzbms5ZHFKRFpoeUE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-c7ae473242b3be30",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2V3FTYlVUQ2VXQjBsaE1rbGpaU0FsM2RJN2FydGM4VHJsSU43eDR0SUMxNFhXZGtfZ2M2cDFWa2xLakZIellLQWNlaHpNazBCamhVeG14T25tREVFZG1ST3ExMHJma2l4Z3RCWktVbFBXRXduZlFFdHJsaXIxd9IBgwFBVV95cUxPeGkzNkNkWTB4ZkUzekc2SVFfVUlfQ0lFQTFtcWNMS05oaTA1dWhadV80YVZjNzJYLWhsT083bjFSZGNPdjEwU0JMeUZHVWdQS0ZmWTJOYm1hNU1qOVRtRnI5ZjJ1ZjgwV29ZTVhmNzVsMFZfUExiazhQeUltenVvU2tzYw?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-7413b30a26782b73",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "How Anthropic’s IPO Reshapes the AI Investment Landscape",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT29zZEZIU0oxZlI5RHZlLUtSaU9uYVJ0OHN5djJnU19jYlQ4RWpuUXNXSTlFcURVU2Jhd1FpLUEteE5SSWJiQWgzOXVTcjJKVF9mcmtIOWhIVWg4eFVRMDRJN3k0UFNUcE9LYk9ESTFwQWVDcHpIaDRoMkhkYUtmODB2U01FVTZlWGh4M3hwbXRlUnZnaEVLQlU1M0FHZkdCOHluUGQ0MmM3UGlfSTdaLXZPODVfTkRudzQxeVQ2VnJNaF9sX05rbVFQcm1JVzdHamoxS1BleXdWeGR0bV9V?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-f962d4bde987b985",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+      "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEhmQUdXRVh3Z3JUcGtnTXZGNVlZbnhWYUFwWlUxa19QelNaek1yM3UyV0g5WUxydGoyREFYdUlyYV9wRk96ZGdpd2FVaTNZNWQ2NElZR3hQVTAzcVFvSnVvOS1CLWpUYzUzRzNUU2JkUnZhS1otaVBieUR2TzV0UExqbENqMkxGTmlSd3h0WE1fUldkTHBLMjJoX1dOUWJISFhLcXg2cThDZlZUOWVlRnFMc3U2M1RzelJOMG5JeS1wMGYxWDV0QnNya2RSMkxW?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-55301687fb2e855b",
+      "time": "2026-11-15T17:23:40+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-3db311a934e986b9",
       "time": "2026-11-15T10:30:25+00:00",
