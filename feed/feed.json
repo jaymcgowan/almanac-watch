@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-16T09:23:08+00:00",
+  "updated": "2026-11-16T19:47:33+00:00",
   "items": [
+    {
+      "id": "market-20261116194733-0",
+      "time": "2026-11-16T19:47:33+00:00",
+      "kind": "market",
+      "badge": "Market",
+      "title": "Microsoft down -5.0% today",
+      "body": "Microsoft at 517.84. Anthropic compute partner and placement buyer.",
+      "source": "Yahoo Finance",
+      "url": "",
+      "priority": 4
+    },
     {
       "id": "news-5f21d08fd171f24d",
       "time": "2026-11-16T09:23:07+00:00",
