@@ -470,8 +470,10 @@
   },
   "seeded": "2026-11-12T10:22:48+00:00",
   "last_run": {
-    "at": "2026-11-15T21:59:18+00:00",
-    "errors": []
+    "at": "2026-11-16T01:55:13+00:00",
+    "errors": [
+      "news: RuntimeError: curl: (22) The requested URL returned error: 503"
+    ]
   },
   "openai_seen": []
 }
