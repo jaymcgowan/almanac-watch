@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-21T03:30:12+00:00",
+  "updated": "2026-11-21T11:42:43+00:00",
   "items": [
+    {
+      "id": "news-da3d0da3502da411",
+      "time": "2026-11-21T11:42:42+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Middle-Aged Men and Leather Jackets: A Love That Outlasts Jensen Huang",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXMydDktcWNmcU5FcjM3a2dxVGNKamhQRF9UbUFmQkZUcUhWUHdJTUs2RUlFYmdoR2cwdGdPT3E1X19pZjdNZmxHNjlWLWlSMnJNRlJSYzhYbW5DN2pyVnFMc0JBSEM0NzVRcFBNbnF6LVJhVFZkel9PZHRZSnpoeGxCRTV6QzUtdEJWLUtGanpSLTZRbWNkTDVyMnFrUmprak9VdWlET0t4aEFIRHdadQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-6d21760fb88bafb1",
+      "time": "2026-11-21T11:42:42+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZ5R1J5S3R5UjEzbTdiVW1OTl9RRkFkcFdyYTJNVHpOMVR0TTlQM0YxUUI3VFZwdVEzSFdKMmdCTDVla3VBY3dtOGVxTnEwWFdyeFJneFEwTkZTb3FQQkZveUdGNUI2allxaUNZcVI?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-0ad99de8c0ad2a1d",
       "time": "2026-11-21T03:30:11+00:00",
@@ -2177,28 +2199,6 @@
       "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
       "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kc3h1V3VzbFFTNWxwbkdxeGpWY2Y0TkNZb21YWFF6WXJQd0h4R21yTENBb25OX3R0LUR1bE9JeXJDclE4enVCRHByQ0E5Q1VwVk5Na3RjWmxrZHpkRHB3ZXBhMW9vOUptcEhEZG04azRVREpfemxXSQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-5654a5d4aaa40cd9",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "How the Anthropic IPO stacks up against SpaceX",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-99fdc473e13d89ea",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
       "priority": 2
     }
   ]
