@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-20T22:38:06+00:00",
+  "updated": "2026-11-21T03:30:12+00:00",
   "items": [
+    {
+      "id": "news-0ad99de8c0ad2a1d",
+      "time": "2026-11-21T03:30:11+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia Stock Drops Below $150 Support After Jensen Huang Scandal: Key Levels to Watch",
+      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldhalBiZklRZ3ExMXViMU1CTWExTFh5SHhRSEVaSWJ0UmVlQS1lQnNsRVIwTDNtVHFuYVFXcGpnbkJ4V0ZDNmg4Y2dMSzBFV1BMNEJRSkRwTVd1bFRIZTlnOFhDdFhsakh0dlpkNml5aVU4TVJzSXFQNjUzNmY1ZXRZQjlpNnEtQVE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-182f17061c39286d",
+      "time": "2026-11-21T03:30:11+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia faces US regulator’s probe into its accounting",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-2cc9d6ee1123c297",
+      "time": "2026-11-21T03:30:11+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Watch Stocks Plunge After Anthropic IPO, Trump Returns from Asia",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmY1bDBPdkpxc3ZORXVYZFZndnBDc3hqVXEyNWRtNE1xbllXVWVtZlctRk9qUDdJS0EtWHhDRGNRc0gzS2NrdUtDN0hUSEZpNUMzRWk2dGkyZW1aME9xNVdyZE9iZ2QzdUpYdlFQWUNKamdmRHJWS2xNWGRweFd1c0h5R19VaGc0?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b0e5bc37d7267360",
+      "time": "2026-11-21T03:30:11+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Watch Historic Market Selloff Deepens After Anthropic IPO",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWxyNnNiRzUzMmpabC1oV1Z3ZmxXVllzMk5HVWlYMHg3N3dEQUdtVW14LVBFTjl3Z3VXM2VUWWg1dHhtT0M4NlVidzJCZENfUGM1WGRoRDlYZ1NGVXlNenJtVW5vVnZzXzlscGRKbXIwVkJCZHNsNC00Y2pXSVhzcw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-8070ce7759cf8114",
+      "time": "2026-11-21T03:30:11+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkJqWkxCSktfUzhUTU5YaTdyb3UybE1GaVU5SFNrTFh4TnJSMklTWDZaV3UzQkFUMHNWdVE3M1lKN3BFcmZNcVhRZDJSdGNaanZJbjNDU2pPbGpkckRFekduM1g4X29sVjl0OG1sUkFDcG04MDZSd21heFU3QXNMNjJNSzI?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-08c63e5705a3879d",
       "time": "2026-11-20T22:38:06+00:00",
@@ -2144,61 +2199,6 @@
       "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "edgar-0001628280-26-074628",
-      "time": "2026-11-18T18:59:34+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed FWP",
-      "body": "Free writing prospectus. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074628/anthropicpbc-fwpjapanprospa.htm",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0001354457-26-001088",
-      "time": "2026-11-18T18:59:34+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed CERT",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000135445726001088/ANT_8A_Cert_0002130357.pdf",
-      "priority": 3
-    },
-    {
-      "id": "news-f07977f8b294f106",
-      "time": "2026-11-18T10:25:53+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia’s big business in Singapore",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTE0bXo4b2pva1QtNWxkVURWY1hzejdmSjBla3pVRkVoQkxWWC16dkZKcjluMUxqOXNZbDEzd1RfSG9xMUVZOWw3R01qcWVtMGN6MW9hREtQbUplVEE1ZzFQano0RTJLQmlHclZjVjR6X0drdHlsTG1nNGtNTTNuUkxLVnA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-39458f21cfc7b4e4",
-      "time": "2026-11-18T10:25:53+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia stock up 3% as earnings beat expectations. Neoclouds surge",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdktTWGx4MTJkY1pwR1JFTm1JN21Oa2xNXzBhbWo1OUtONGUxbW5zLXlMZ0pCM3AzTFNjQkR6cjVDYjVXbmVpenBOZHFTR1luNklyeDMyUXF0TmZEdzRUa3VUTWFEQ3JEZVHSAW9BVV95cUxQMndnOEhXQVJYTzBwMWxEd0ZRUk5YSFNGeElOZzhPVTd2bnNZRkExZWpOY0V5MTZmRFFDcWtpT0ZQSF9LeFF3ZUw4X3BKdGRaU0V5V1hGbjIzZXFqSDdZX3FScDNxa2JCOGJOaDVtSlE?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-ea498e058bb1d92d",
-      "time": "2026-11-18T10:25:53+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Asia stocks cling to gains after Nvidia earnings as Anthropic pricing looms",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
       "priority": 2
     }
   ]
