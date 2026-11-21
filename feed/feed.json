@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-21T11:42:43+00:00",
+  "updated": "2026-11-21T18:17:20+00:00",
   "items": [
+    {
+      "id": "news-1efb66b56a69b632",
+      "time": "2026-11-21T18:17:19+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZKSUpVM0xWNVRuM3B0RjhyOTM0NUNoRmNYVnVKYm50andhaTFJVHZLenZrckE1aFZuMGhiSW42Mlh5c2lZcGc5eTg1NDQwWVRFQWxSOGtzWHk2S2pGLVpvM3N2enh4Mms5OTF0MHFXc0JnN3ZoYlB3ODJqX3FoSjJCTWlPOHQ2SjNOQ1Q3cjVNR0NWRVYxWVFEanpwZC1mSW5SeGpXSDRqX1d0TUVwdE1vYVJWUQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-5168ec1d136c8a27",
+      "time": "2026-11-21T18:17:19+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Alice Huang’s links to the chip underworld",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2I2emFfUExveWExQWtzSi1INmtBc2JuXzA1VXphamhsZ0Q4Ukd4WEoxZWMyVWdkVFdGMk1Mdm1adDdVN2diUS1aUkN3dEhjX2xtYXBWWFZLbk5RYVpxeE5VZUVOZng1MmtncWdBdHlkNlMyejFzbWxCRW5Sc3VBcno1ZS0?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-859bea40f2fbc125",
+      "time": "2026-11-21T18:17:19+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-da3d0da3502da411",
       "time": "2026-11-21T11:42:42+00:00",
@@ -2166,39 +2199,6 @@
       "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUdOTGt1Xzhtd3NUNGVaaG4tTlNSTG92V2VnblByY0ZWcllvWERQSmFwenpWS2I5Tkx5ZDN4c1E2UHRaeExXVDR1R0hxNnZpTEpscmhFR0VnSnJaRGw4bkxzTWd1cFFXZUlSdjlhY1AxazhiMGNTdmRSTmZOSkJXT2VTYU43OVVVT1BfZFBtZm1xZGNQNllCRm1JSXRZem9MY2NBSkphcw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-8c06526193e31ea6",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYTRTQzFlYmlFWWFoaXp0dGJKVDgwaWM2cVJmME5oNkx6cDkxYjk5YkN0b096MXpBVVNtdTNkNUpIbkJ2QkdtRlFwajNUXzM3NDJpeWJnei1Rc0tfRGlmRGI0NFlVYlg1V2JaWlAyZUwzS1Rrc0HSAXtBVV95cUxPOWpsWEZLSTR6RGUtNU1CUWp5azByWWl0ZmJFYVBlRHphUDJUODVJc2xYT0o0Y2JNaHE4a1NCZkdaVFpZZGRwTXRlVUxYeldfb1llamZFTUZjYkRMc2l0eTJjQ25CYkNjSVhUeUhOakxBSVZxZnZkUmxsUEE?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-71863717d94e54ed",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO could be biggest ever - but has it already peaked?",
-      "body": "Sky News. Single report until confirmed by a filing or a second outlet.",
-      "source": "Sky News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXpMTlRyNHVjU192THhXLWduYk02V1YzQUpab0lGUFdRcDRFVlBOOUNRUHdrZ2dlbkZDUGJWQkthdFVwNW51N3dMX0JPYlpBQUt4V0RSVzVrU2R1d29pT0FXLXc2WFVnVFR0aGR4dFNmWURiU3M3aTRFMmg2TUdZSFdXV1NVc29mUFFrV1ZkeXd6VzVsR1FFcUpIalNDZw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-1a24ba6d4ea57979",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "When Is Anthropic’s IPO? What Analysts Are Saying About the AI Giant’s Trading Debut.",
-      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kc3h1V3VzbFFTNWxwbkdxeGpWY2Y0TkNZb21YWFF6WXJQd0h4R21yTENBb25OX3R0LUR1bE9JeXJDclE4enVCRHByQ0E5Q1VwVk5Na3RjWmxrZHpkRHB3ZXBhMW9vOUptcEhEZG04azRVREpfemxXSQ?oc=5",
       "priority": 2
     }
   ]
