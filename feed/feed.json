@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-22T11:55:18+00:00",
+  "updated": "2026-11-22T19:26:29+00:00",
   "items": [
+    {
+      "id": "news-5e9d7c5cc9037521",
+      "time": "2026-11-22T19:26:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Spy Chief Says US Probing Alleged Spy Tied to Former Nvidia CEO",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdE91b1JDX3BfalBuWlNGXzRwNERXUThKVzRESzZnZHMwaHYtM25YYlloMk9DWTJEY01kanUtczZEcC1jUjkzLTBoZnBtWC15eGZLbGlRQnNWa1dWNHpxSnhEcEFJVkQxUGpPb2wyam5kN2xISnRlaW5mdUF6WlZ1S0FKUEx5ZTdTQUFtelJDbDlsc3RjT0dHQmxkcUtIbUlZa3NkZ2xlMmJ4SHFvaXdvRldCM3c?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-762188f3e4e713af",
+      "time": "2026-11-22T19:26:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERNWnNEZmRfX1pfRGR6ZEdoclc3YzRNTkxrS0xhUGdqUG9sd1ROYlFDVXhjVk9oY2Fhc2JWdEdtSmxoZXlyX29CR3hiUW9LM2lLOE5vRk9NLWVDazd0Y2hncnJDYWRxYW5kempscjA5QVlkQXZla3FMeVBXVUprdnd0dU4?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-9c2a4ab9eed1609a",
+      "time": "2026-11-22T19:26:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic’s Record-Breaking IPO",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnh3WGRjNjVrb1Y1OUZyUk96TTV3M2c1SXMwY0twWjNsWVpPSGRzSmlYdzVmU25ZUFl5OHlVUnVrN2d2Z0FzZlVPSTdveHRrVzdBM2pMUGNNY252UENuVFI0Vmw1aGZvTUZvSjVQSGtmVGx2UnMxckFXUlhlN3BUOHJnRzVpRHF2SUM1ZVJsU0pEVDJkX1A3NmhvTC1ZcHJvSE5SM1pLN1BKVWl2U2MxSlpZTGo0dXlmcHVTdUlCNmJjWXRVcWpxOGdCVFIteHJHME9N?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-f611fc3bb2dfc725",
+      "time": "2026-11-22T19:26:29+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "What Comes Next After Anthropic’s Historic IPO",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGhQYy1TNTdJcnJDbUg5RFFZRl91OE1OZHNvdTFfYm81NTFTR1JGLXRsR1RFTnhnajZMT1ZjNEFIMjlJX2pfS092R2JGLUFZb2ZhVE5fRU5DUHhub1ZKb3VQUkJUSUpuX2wwZ2ZpdmR1M1BNcTVYb0pBQXlZMVFmNkNVbElaUEg0a2c?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-3fc6f943e07f10c2",
       "time": "2026-11-22T11:55:18+00:00",
@@ -2155,50 +2199,6 @@
       "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0ZlYURlcXJEZDhrMUw1QVNnb0FfTU9DVWMwMWljS3Ffc2xNV1ZZd1dmak1ndE1CbDVfb29yQkJUSHBOeF9BanRoQUFCXzAxQlB6SGtqSG9oczFnMEMyYzJzbGVmUXRjNlp1Si1vMVBaTF90UXhtWm1NMTB2RnpUeURlc19GWkdBMi1jNWZtNzFRaVRHMGc?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-e603412500cd146e",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "The $1 Trillion Spending Question Hanging Over Anthropic’s IPO",
-      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjB2eE1UbTFSOWt0ZWlRcTh3V0RYbmlqS2RHUzlEZkdUR0l1Z1FwcEsxQnZVSDVwOWZIQXNlMTczNHlqRlhSV2hCVEU4LVVHbGxXX0VwQldEYS1BTFgyOTBVWm1iNGNiYmE5TmZYWktLUWhDUDdxcEZFUDZ4d3hiT0FRbG9FVnVqenVyLVFB?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-47e7ec5b321445cf",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3g0SzhLQXQyeVBHYW96cmVJT1E1cUJkcVVHb0hqU00ycWRzR0xVYTFUaklGSUJkMFk3aHV1cXlrX2tVdzVuWElwM1NsSHIwVmJDelI5dUkxTEsyblBmNzhkV2tOQ2pqVmVwTXJaUUxpSWk1Z1ZVRHAtUHVBWFFjdlgyZnpicXJOUXdj?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-13dc7d8f8b50d765",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "How Anthropic’s Low-Profile CFO Helped Grow Startup Into AI Powerhouse",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcE9KTDkyZUNBNmNqZ1Fib2VRbUhkaVBZZjhUdnB2LUZSNnV6Slh0QVNaOTktZTl3ZDhSd0dPdmJ4czNEVWlScW9MdEFPakxVM3A2Tkk1bTVTUWlTeEx3Q2IzWFY1RnFxNXdSa093VEZjOGpYMjNTYTg3bVljSFoxMThCbW0tbnZ3emduOHFPT2xhd2lQR1Jid0hJN2ljT3dRX25ucEpkWENpVnpOY0JPWDBYUTlfQXYyd1E?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-b5890c78a6534c6f",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nasdaq rises in choppy trade as investors weigh Nvidia outlook, Anthropic IPO",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
       "priority": 2
     }
   ]
