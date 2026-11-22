@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-21T18:17:20+00:00",
+  "updated": "2026-11-22T03:27:21+00:00",
   "items": [
+    {
+      "id": "news-995be3b86a1aef52",
+      "time": "2026-11-22T03:27:20+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-1efb66b56a69b632",
       "time": "2026-11-21T18:17:19+00:00",
@@ -2188,17 +2199,6 @@
       "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DMVphVGtnY1hMcnJhdXFNd09BbU1lZ2FwTFNZcU9sY1JjcjJMVTNCYk9NSTVrYUd3TVRoUVpXZ2J1czRidmxjM09IdXRZd0dvVGpiNlkzM0VGMlF5cldUdmhVU0FWSThuUFJ1ZlVfWmFoUmVkRjBqVTVhU3Fwdw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-32d12b0ddc1ea666",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic’s IPO is a Test of VC’s Big Bet Strategy",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUdOTGt1Xzhtd3NUNGVaaG4tTlNSTG92V2VnblByY0ZWcllvWERQSmFwenpWS2I5Tkx5ZDN4c1E2UHRaeExXVDR1R0hxNnZpTEpscmhFR0VnSnJaRGw4bkxzTWd1cFFXZUlSdjlhY1AxazhiMGNTdmRSTmZOSkJXT2VTYU43OVVVT1BfZFBtZm1xZGNQNllCRm1JSXRZem9MY2NBSkphcw?oc=5",
       "priority": 2
     }
   ]
