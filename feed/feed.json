@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-22T03:27:21+00:00",
+  "updated": "2026-11-22T11:55:18+00:00",
   "items": [
+    {
+      "id": "news-3fc6f943e07f10c2",
+      "time": "2026-11-22T11:55:18+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain.",
+      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-1e5cbe2ba3adc982",
+      "time": "2026-11-22T11:55:18+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-995be3b86a1aef52",
       "time": "2026-11-22T03:27:20+00:00",
@@ -2177,28 +2199,6 @@
       "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-7f39e240cc9f4ea4",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "How to get Anthropic stock — without buying the IPO",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nTlVOM21Fa01WeENWTV9UY2NLMmdEXy1tSVhHN1pwYW54Yng0b0xWOGRWQVhuX1loYnd3anAwZ0tOMll1OExlM1I2ai1ZVXU1cnFQSVl6RDZ3ei1zUTFRZkd2Sy1vbFBfcnVv0gFwQVVfeXFMT3RsX1ZJOEJBbW8yeXNCLWowQU45OWxwdnVfTFMzOHd2cUpBLXE5TXNMNXAzcGZDTTRTSlMyYllVSzY1WjBjQ1lRXzFNbUVJX1c3OGRwVi1NdlhwQUtBNXZTT2ROd2VWczkyME1HWFR6RA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-30f993b84d78a7d3",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic's $1.4 trillion IPO has retail investors divided over whether to buy or wait",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DMVphVGtnY1hMcnJhdXFNd09BbU1lZ2FwTFNZcU9sY1JjcjJMVTNCYk9NSTVrYUd3TVRoUVpXZ2J1czRidmxjM09IdXRZd0dvVGpiNlkzM0VGMlF5cldUdmhVU0FWSThuUFJ1ZlVfWmFoUmVkRjBqVTVhU3Fwdw?oc=5",
       "priority": 2
     }
   ]
