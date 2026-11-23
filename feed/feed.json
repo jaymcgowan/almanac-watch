@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-23T00:26:22+00:00",
+  "updated": "2026-11-23T08:06:12+00:00",
   "items": [
+    {
+      "id": "news-bffbf573572879f5",
+      "time": "2026-11-23T08:06:10+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHFQOEdMZm5FNmNuNWo3WHNuNHhBVkprTmplTktaZ1J5Ni0wN0NBdHF5YWg5X2pfc09rZldBYU80NWVCNTRRZDVsb1RfVkRHdFBseWh5VmZieU45WnhMb0JpNEFkZHlCRXp1Y1FMb1M0WjNEWGk0MjBJb3V5eGRtQmVaVzBWaWtPeUhOX1hleHkteHRNN2JUekRTMGpTYmtuMTNKNUdZZG8xWF9iSzYzT3kzaUEzbkYzZ0NsT281aHl6U1FDWUE?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-5e451274f81f5602",
       "time": "2026-11-23T00:26:22+00:00",
@@ -2188,17 +2199,6 @@
       "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVE5vZ1hfM3dySDBFS2tna2x5X3FHeTNrdFVqR3hicXFYQlhWQ0EwT25qcFNsUkpCMGtrTHh5VXF0a1RLVW9NNXAzTGpWRDVvTW5RUDhVTFR1c1dkcmR6aTRSbHllemlPLW1NOTdkNnFJb0JuVzNRWENxdlg3a0FGRHI5ck41OVBWa1Jua3JyalBKd01Ra1Q0LWQtOTlSS0xiX3Jmcm9LRlktM1E?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-94673877eb3f317c",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "How the Anthropic IPO stacks up against SpaceX",
-      "body": "BNN Bloomberg. Single report until confirmed by a filing or a second outlet.",
-      "source": "BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2VaNDhSa1NRM0RlSmFSZGpodmltb1NBZm9neS1SamhNMzZsclN3eXd1SzdGMXBNMXdKeTlWMUxncFk4YnhHZlo0UzZLcWFrTGNCN2p2ZmpKbTBrcWRxMzBhdmhKaHlYcHRobUk2SFVSaUZhRUpuaDRNM0lpS1NKd1ItOTRFdnA0aVMwNnRkM3IxZ3VkQjJEZjVLajJoald2Rkdsd3M1V3RORXkt?oc=5",
       "priority": 2
     }
   ]
