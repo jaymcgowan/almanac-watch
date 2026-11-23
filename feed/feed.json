@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-22T19:26:29+00:00",
+  "updated": "2026-11-23T00:26:22+00:00",
   "items": [
+    {
+      "id": "news-5e451274f81f5602",
+      "time": "2026-11-23T00:26:22+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "FirstFT: Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnR6V2FnQVRrTFZSSjhmQnFlY0hybjZsVHgxOVdDVmpOQkV3MXRUOVViLVd5ZWRCbERPeWhuVkgwWE1LaUI2cllYSTJLeGtqa1E0aE9SSmoyMXFvUDhnbk1oWlV3bjlRcG5VdHA3U1BZTFNkazJnU3pvUUFYeG1Qdk5ULW0?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-e439500648fcebef",
+      "time": "2026-11-23T00:26:22+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWJIR0dIMWpZcU5CQzg0bXB4eF9hdnZJZ3BxUVQwLUpIWHg1VzVhY1VzN2JJQWJoaEFiemVZWWo3a2tCQVVJSlVzYURJSGp4OWlod0pkT1Rwb3hyUVEzTG9CUE51bTRoSFc3dGNrbXo4ZHlXdFNubGNGc3BqZVdaWl9NUGRFSU0?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-5e9d7c5cc9037521",
       "time": "2026-11-22T19:26:29+00:00",
@@ -2177,28 +2199,6 @@
       "body": "BNN Bloomberg. Single report until confirmed by a filing or a second outlet.",
       "source": "BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2VaNDhSa1NRM0RlSmFSZGpodmltb1NBZm9neS1SamhNMzZsclN3eXd1SzdGMXBNMXdKeTlWMUxncFk4YnhHZlo0UzZLcWFrTGNCN2p2ZmpKbTBrcWRxMzBhdmhKaHlYcHRobUk2SFVSaUZhRUpuaDRNM0lpS1NKd1ItOTRFdnA0aVMwNnRkM3IxZ3VkQjJEZjVLajJoald2Rkdsd3M1V3RORXkt?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-f41ca67f6d53fa47",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic considers increasing IPO offering as investor demand surges",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3QyNVNaMWRTMzlKa09KME9FRGZLSWJxaW92YXRhUFN5ak5JeWVhOG5QMlBNV19nOWRkMFd2RkNHeTFKbjNyRExwN3pvelNtdnVoTTFkcGs2Sllyd0NUbnVHREVJWGRYcnNPWkFVek4wcU5hcVU0dU1RM2FPN0pELWhUTUp4endxa1FIb0ZRT1RaTXBlTlpwZVpDX2ZlZGk3Mk9ZY2YzSEhncE1HRGx1NnkzMHl6QjMteUZ0TUlDMnZSZ2Mw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-05ec880756ff78de",
-      "time": "2026-11-18T18:59:39+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Counterpoint: The IPO is not only about Anthropic",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0ZlYURlcXJEZDhrMUw1QVNnb0FfTU9DVWMwMWljS3Ffc2xNV1ZZd1dmak1ndE1CbDVfb29yQkJUSHBOeF9BanRoQUFCXzAxQlB6SGtqSG9oczFnMEMyYzJzbGVmUXRjNlp1Si1vMVBaTF90UXhtWm1NMTB2RnpUeURlc19GWkdBMi1jNWZtNzFRaVRHMGc?oc=5",
       "priority": 2
     }
   ]
