@@ -1,6 +1,149 @@
 {
-  "updated": "2026-11-23T20:12:36+00:00",
+  "updated": "2026-11-24T04:50:28+00:00",
   "items": [
+    {
+      "id": "news-b06671f7880e5667",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYU14WUxaSXRlZmZQNm5ac1FELW95Vm8xekRrRVV2X1pLRUFBb0FtbWttUnFWaFl6Y0hGWmU4dVVNc2FrZWpmMmhVQmZSNVlKTE1qVDQ0d2FwYm9TSkRtV2x5d3VNSkt6MVZDUGZHTWRlVFl2eVVoTGNuVkgwbHZuXw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-2c0ca87d36e6e479",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZZFF1c1JCN21KQzIxUHF4VW45SUJzcFVBMmhlaDVHMUdKQU56WVBFQkM5T0x0dkVzZ1RFQ2RubGszZ2ZfdTRVSm9EWDIyVlhNZk0yMTIzRHBKeXVyUFE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-4666b7fd132e4f51",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWmFFQUd3NWtmLW9aWW1MZWI4M0VFa3lBWk5remd1ODRiUjk3VVBodk9nbDhjbU96cEdqVHhYYnk3YjZ4Zkc2dlB0ZlhKWW9ORndOcGRsTGl4Sjg?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-88795fc914784e88",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b1388eb6c90e953a",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Asian tech stocks surge after Jensen Huang’s return",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPal9tdUdZVTJvVTB5aGJHZ0FwTk1GVW8zRWFzNlFEdU9YTERXNlNPcGFzbHUyaXd5U3I4WlMzTGNFUUtPVlA2VmpYSW94TFZKMFhGOFlsU19WV09kVkFGRk9IQ3h3MkRLUGlqWms3akdWTUNaR1hxX2VXakFVMm1tNWk0MW8?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-d6282160018bae84",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "The Frantic White House Push to Get Jensen Huang Back",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-fdc80d167f0fb986",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZXRBYm1KcWt3TUMtd3Vqcl9PT05RdV9RbjNUc1FoRzBOc19HS0hDRHBHNktRSVNhaGZuYmladU9xVEdQbVV1X2tRUkxqMHVLc0pab295dS1GYnZUc2U5SzB3eldxTEdIdHpSRzFWaFc3aHpIZGVrTUNfWETSAYIBQVVfeXFMT0Faamsta2ZJMzhadXdkWVZBRUdWVXliYlFOcVZwV1BpOGhZY2NRaHB0X3VIOE5LcVVJaTZyY2hwc1JPaHNlTWJIQVNvSjYzUENITGFUNVlwTHczR25vbjZLWWF3bUs3R25uZjR5NjdCUVZfWFZMcTNvcmRNRWpySW9zUQ?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-888d57db9c7b522a",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HVFdMcDY4Nk5aWmJyZVA5aEZsZDFRQXBURE5vNXUwdHh0enMxQ0poNzBNbDRsaEwyQk55RHJJcDgzWXFFNDYzY1IwQUgxZFpMX3h5UjhSZG5yb0k?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-25a85766da3882b1",
+      "time": "2026-11-24T04:50:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVpiVk9va3pSQm4tWmVGck9mSWxta2poMFNfVFdFRGtsN2l4c2c0WlFLRG9nRnhXM2dXdlBmQ2toWmtWbFRwb1NLU1AwMG1FMnVNLUhpU2FwUTN4cHRmejRsRkRFdGdFc1hDTHhCWWxDdkRKNVBxb0ZHb1FzQWZCWmJEbWp2X3dV?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "edgar-0002157947-26-000004",
+      "time": "2026-11-24T04:50:24+00:00",
+      "kind": "filing",
+      "badge": "Filed",
+      "title": "Anthropic filed 4",
+      "body": "New filing. Filed 2026-11-23. Open it to see what changed.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215794726000004/xslF345X06/form4-11232026_101129.xml",
+      "priority": 3
+    },
+    {
+      "id": "edgar-0002158120-26-000003",
+      "time": "2026-11-24T04:50:24+00:00",
+      "kind": "filing",
+      "badge": "Filed",
+      "title": "Anthropic filed 4",
+      "body": "New filing. Filed 2026-11-23. Open it to see what changed.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215812026000003/xslF345X06/form4-11232026_101148.xml",
+      "priority": 3
+    },
+    {
+      "id": "edgar-0001221820-26-000005",
+      "time": "2026-11-24T04:50:24+00:00",
+      "kind": "filing",
+      "badge": "Filed",
+      "title": "Anthropic filed 4",
+      "body": "New filing. Filed 2026-11-23. Open it to see what changed.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000122182026000005/xslF345X06/form4-11232026_101110.xml",
+      "priority": 3
+    },
+    {
+      "id": "edgar-0001997244-26-000005",
+      "time": "2026-11-24T04:50:24+00:00",
+      "kind": "filing",
+      "badge": "Filed",
+      "title": "Anthropic filed 4",
+      "body": "New filing. Filed 2026-11-23. Open it to see what changed.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000199724426000005/xslF345X06/form4-11232026_101131.xml",
+      "priority": 3
+    },
     {
       "id": "news-321f9e8fd3b24024",
       "time": "2026-11-23T20:12:36+00:00",
@@ -2056,149 +2199,6 @@
       "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
       "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSE5oTC1HaGlReUpSMUdEWFB4MG1XM2VkWnZpdk91QlVPZVQyVmoxaGpOM1pLLU9KcXl3VkdIMjdfbkh0VHBfVFk3X0FqNW8tOGZmNXJjTy1PUjFXUExMal96R0FYcGhfNHZJSng1dTllbTZYck13UUhtaVEzbDd2VXI0ci11MXhMWWswSjJxNVpxdw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-bdedc5e5dc8a30b6",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia's shift in financing tone may spell trouble for Coreweave, other neoclouds",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IZ2MtRFhGSXJRTVZCWWtGUGN6ZGNsb2VoUkhjcGZhV0UzbFJodkJsR2xNdTB5ZWRDMll6UkFZakJyZXYwaFFJQk1jUnhyaTNwVjBhcjBSaVZCMlhCbmNYM2QtTlctNktfSU95UGNiaw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-7c84bd03aa446142",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VaTJUMW4wX3BuUkY1V2hWM1YxWVhyc1N0bTg1aGo4Y3dRSlBoZi1Zc1ppa2lUOGpqZ1F1QzFGSzktejNwTjdKX3gwa05kZ2NDQVREZHMxU0R5X3JLVzAzR2JwYVNSWVZWR0NBVGktS1Z6czZkaGxr0gF8QVVfeXFMUHlVUE1HWnc4QzBRV3ZYNEFjSGNvS09XanI3VGJXNVNIOG0zZWZ1NmxNSG0tWnY4S3kwUmlBUFd1MUpZU01YbUdyODBjdHlibG5NUkd3MXJGMFBPazNXVURIc3JhbXJsZkpNbjYwaWM5QzRvLXNtZWwwLUl5dQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-c7f819da47e2bf1f",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-10251c43f98d28f7",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Wall Street ends mixed after Nvidia earnings; Anthropic prices IPO",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3MXhGT1RBMC1pdHkxdzIwTWRReFFaa1VsUlJjUFZtTkhnUU9JMnZ4aDV2VDlCUFdyS0pHZWIwdng3eF9SWlloS3pjU0dGQmp3T3l2MEdkcGVPMURJSEg4WnNCTlRfNUU?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-5168eeb801a772e8",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-4cceb1029c35e0b1",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Stock Market News, November 18, 2026: Nvidia Earnings Fail to Soothe Investors’ Nerves",
-      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-e772e7ff6491cb76",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia Tells Employees That Company Is Moving On From Huang Era",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmJBeTBNRzc2WnpadnRGaVh0cE8zTEhIVGstcmtqZnF0cHh2THdwSHNPYzJ6aXZmbGZiYXZvMzV5WTlpN2c4R0F5dS01R0VjcENMVTZpTXcwWVROTmNlZTJsY3BtcldDZFltVG4zVWhZTTNXZmlkS1ItWXJEVkRyRVNhWkU5NTEyRDdweFNhZk41aGQ1U3hIMGJyMnVyTHhEbXVVYTF2MXZSTXJYRTFFdHFFVG8?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-bb08b7ea7a15e34b",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "NEWSLETTER: Can Jensen Huang come back?",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0pfTlRoblhQMzhyTGdsaGFpZmhYcE5lYUUxc0IwRDJkcV9JQnZoamZxOWtha2Z1by1teDN0bTU1WnJIVjVNQmZaZkx1QTVjSGZtRmd3WEN1bFlNcHMyQ2NqUmtRdjJHNWxIWldZQlhKckxtdnFCZlRDc3ZpbUg0ZXBNRHotRjBmMFhXVk1FNWlaSDZLRWFIcXY4bU1pQQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-c1e23e3b6bb45357",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Elon Musk on Jensen Huang's Nvidia exit",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeF9DQXpFNUVtQzJuQ2drb1RXMVlrTzRSVHliTzlBVEJnUXgxdUtlNFdiU19MZUZLMi1tVjhEQUgzMlQySWUtUl8xSHFxUUhsem8wXzN4UWN4NmVxYTM2RmYtYTU2LXQ1bDBsU0xYQWk3c0JBOVYxZy1FV2xFMlRLM1RBYW9ZOGhS?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-6c5e431ec3fbc0fd",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWlyenFXWl9XWkpUNXRHeHFBR0EwbGJJRWRnM191VVhXS1pXb3daQnl2amVEMDVZb3NNM2xyZ2N5MzVfVTgwck0wRFNENXd5SDBYRVV2RFRXdF94MHpmZElBYVFyanlyNWtjWHAxY0tHamxnVFhMM1RtLXFXZGpfeXZ5akI?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-ab2733eaacbc8628",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkdMM3B6VU5DaTBZaEZfWnQwQ2RIRjg0WkRUVkxLM2JmcUxxMHpCUHBjRzNmTHFFMXRzM1R4Z2kzZ0ZIOFdmeVFZdGMwSFpQMGQydWZHWVR2V3Ytczd2b3YtVkM5Y3lGRl9KN2VBWllFSXpKdDRmVGl6NGdJTzgyemZyeldNbE9fdGgwTEtfclhzTjZGT0YycW41S2NMVGYzOFJqX1dTcTAyVFZReVZQaXFqUnU?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-ab62186f5856acbe",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHlsTnZZSU9BNjZuZUZvQXBGUkZnc2hxZ2U4cE5WWkE2OG81eUZxVTVsRHdaMTVGdFBTWnBSQUZhS0lBOEhJdVhCNjJ5ZURrOGlCekFWU010bWRjRXJQd1JuVFRSbGRtYWl4STNlVFNrREdVV3BXYW4zRDlMNGFoek5TbkVLaVlaWGpCcjJrVXJzb2xHQ0xNUm50U2V2YUVPRlJrYdIBqgFBVV95cUxNNzZwUmstbGVkVFNDZ3FfTkNYRHZmUlhMRGJvbENlNG1sRl9MZjJjSVpORzVvRTZ2ZWNJWWRTQ2pkYlY4ZTdpMzhfN1AwVzZzSWUxR1hPR2pCWDJPLTIxZGdMT0JMLVdZUUlyWWVxT2ZsNXFwZ2VEZ2czRl9Ya3NDVEFBZF9wb0lOMVlnczBIazh1OHdJTFRCYXVNTWU1RVVjQnBWREQxQ005Zw?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-0e4adbb7a55bed6f",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
-      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZ0pYdHlmLTd2WnZJbmtNYl9RUmQ1ODFGREEzSkdNUXFOQmhnNXg3MmhWR2VzYksxblZqWVJ0SHlKVW1TbXZOWE1UbnNUdmNKMXp1eWFuTFh0QTQ?oc=5",
       "priority": 2
     }
   ]
