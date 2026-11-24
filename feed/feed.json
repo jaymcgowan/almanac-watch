@@ -1,6 +1,171 @@
 {
-  "updated": "2026-11-24T04:50:28+00:00",
+  "updated": "2026-11-24T15:28:45+00:00",
   "items": [
+    {
+      "id": "news-7ab48c63eff32cfb",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "What does Jensen Huang's return to NVIDIA mean for the markets?",
+      "body": "Sky News. Single report until confirmed by a filing or a second outlet.",
+      "source": "Sky News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1M0eDZlakpzV1RscElteFVJa1BNNVhDWjYwVGdQdjE5YTAyenpFVWw3UEY3enliN25zanRpU1lNaDVyWElwTWFna0FybDVCOWtwSndhWVBxclQzWW9TYkVYcFV0bURxME1YTXo3MVJWZHIzbmlxYldYS2ROWUtmOG1NaFlDZVRLUDZoWGRfS3JTWG9IWmF6SHVMZUNNZw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-4f4e22e0c580e5b5",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OdXBDM2V4Mm1MN0RIZTZGRG1LdmxuUDNJcHNpamhmZFI5anJLX0JSTmJkbDh4TDdKQXhweUhaeFVHR0V3Ylg0R1FPakp1ZEd4aVlXTEFNOUFwa3VYSHFSaG02dHE0WkVlakxVYlJpRWZvMHpsTmfSAXtBVV95cUxPRlF5Vm1tV0pGTXRYRF9hMVlZZ0phemFNTUZfUTRvaVdTNF82clpMQ1NieGs0MzQ2RGpxdUtHdzhPckhFeTVwNW1PYVlpSlFvMUxJVDB1OFZsNVVVN1ZuQ210SEVWSVJXeW9RVmNxc0NEbk1RdXFGckJXR2M?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-789a97f8913c5364",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang’s return should not stop tighter US chip controls",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZdmRpVXA1Nm5YcTh2N1lzWXQzbWRpbkgxUlNZaGNpYVFCUmRvVEVnaFhjbC1IWUJuYjdQQk4xcUVIelE0NFFNTFp4dnZITTNfeXBTaGFZU2g4bE15c3JQWFhJYTZjN2NJVFlHclI5Qks?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-8db990213cef4e6f",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-3602f972126c5695",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "China’s media hails Huang’s Nvidia return as it warns over ‘witch-hunts’",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVRZWXlzdFRreUMweC1ZVVR2MUVXRFVSdVhLOEYxOWVEYWpzd0NaNk5KUUdBZnNycHFTMGJqRHNGczR1bEw3UDVRQ0ZhNl9Fd05NdjF3Qmg2ME90a2p0a3NJclhuNnhWSTFGYWFHdTJDSTZrZEtXS280T2JzUHduNHJ6dzN2ZGN5c1JrMFlhSQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-fdf9867fc43f764e",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "How Donald Trump helped orchestrate Jensen Huang’s return to Nvidia",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWnFjb3FPMVFfV25XdkVHYkVDZXJ6aU9fU2h5eWtJd0VlWWZrd3BNVFpLakRnSHBkR3cxRExIY0w2SDVuX0h6akNKcG5XejJNNnVOVmtvOERqX3I2VDBSVFBBQ0JJcE9vTTFfYWpVN1lMaDNKVkdIVXdUbDRBR25MZEd5eHo?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-07ce29db79041ddb",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlNtbUUyaUJuVVcycF9KUDBiNUwxdks0ZVR4WjNDQWhweHJtYlEwaW5hN3F1Qm1jS252bC1UNDJ3N0NJWElwUGpDUy1CZTd4aFY0Znl2TzZSNC1EcktvS1haeWUxcmYxaHpweWlqQjJhQ1U3cnBYS0htM3J2UF9uck5fSXFoSEk4SW5PMTBZcmlSdw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-89d9df3a7dc57173",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzFWMi1HTVNKN0J1Y2Z6eGdmTllVNUZqcF9CZHVKMzhHM1NKRzBWMjBFRzhPM2ZzZzR4Wi0xMEpXXy1IME5NeFdkc1NHODVoNzN2YXBDRjVJazJkUEZjMXpaUVk4bC1zeVUyYUg3TC01TEwzcWdvNXZ0MFNsUVZlSU5VR3RGbG5GQUlNMEVpalZ1cldDSUVJM1F3?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-4366b9bb350fbe4f",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1R5Tm5OLXZqMWFfZXF0aS1QbHdrRThCalFxektGNWk3RHcwd3dWdE53MHlFM1ppeWxJMWxoTzhVY3FHZG1nSVpjRTZIQTEtck1zS095Y3dNVXdCNUNrcE9NSW03RkJiSnM3OVVKVVlKUU9OMkxEelpxXzZCY19URDZ0UUwtUQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-d715caaebcc2a104",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia’s Shocking U-Turn Is Bad News for Anthropic",
+      "body": "Bloomberg. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0RTUGRJWFNZZGNUY254YlNwRkg5akRCYzJyZnd2aGw4VDN1NzRrY1N3RFhWYzZRcmYzbndrZVZDQ01LYTkwZ0s4clBrMWJQUElxRFNrNXdURkp3d1ZycmFiczlmMEJSd2lRR0luejc4Q1VBQVVxZG04TU4tcUd3Umd5UVcyQUg1Q0lqWndiY19JSFJiVkpid2lhR1BxcDBPY0pMbmFHV3ZLREhQOE9xQWhMTFNXVy14Rkw0dkFlMEZRb0loaThr?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-527012c127e27e98",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-0bdde6afe17ef5d4",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia shares slip as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3T2MzSmZqZnRJLXB1VEIxTmUyM3VkM0tpZXUxNm8xbEdMTmtsSjJzZURvVDh1dWdfT0xvV2Vvc1J1MTJFRUFJRERpNndDbkI1M0RzYnRHWk0?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-f2781d52a4ae969b",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Stock Sinks Below IPO Price. What History Says Happens Next.",
+      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG8xbE9VS2k4WFBkbmRUcFNPa2tkOTFzVVBnLWJfaERmNllLa0ItdVYtR1hmbDFUcnI5ZGlDN0IteFAzem9XclBheHd0VmFzSGZucEVzdmxhT283dTF5M2FRVVRvVHpicFVNT05TQzJRR2p6U01fMTNqWFh6emdvQkxsaW8yUQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b665667eab1c71b2",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11SHBETmFkYWF4Z3d4VEluVmI3bW1ReGhyNU9iSExzOUZZeGVLdGpBTUc0WEFkYXh4VXJYTmM0R01kWVY0bjJUYlhsRFJ2TlB5ZUMzZ3dQcXphelRvSDZ1UU4teW5ZdGRIWFpsRGZWWUxPT0cwN3kyclQwNHc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-146ce4bb4a4b07ef",
+      "time": "2026-11-24T15:28:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+      "body": "Bloomberg. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-b06671f7880e5667",
       "time": "2026-11-24T04:50:28+00:00",
@@ -2035,171 +2200,6 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTZNNDF2Sk9obS1LUXVycnRueGJCUTBIdFhpd3ozYmVjaFZaNURJWEFYQXNzaWJrQkRIcnpPdFZPZjQzQXJ4UExnNGRUM1dsZVhsREVxaW9TYm5GYmdzMm5HS1A5OHVtY2NMZUp4TmdOSmtHWGhXdFhnMW4xdVoyRUpXby1NR1Z3UGx0aGpYaFpnbHZSQkU1MkhQa2QyV0U2YTZ0Q3BCNFVkbFFmOWVScWthdw?oc=5",
       "priority": 4
-    },
-    {
-      "id": "news-e5ad31e20843605a",
-      "time": "2026-11-19T08:46:07+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic revenue target: $600bn, soonish",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-103d1366ef731552",
-      "time": "2026-11-19T08:46:07+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2tHUWtySlNwcXE4MXdQYTFOV2dQQ2RmTkM5Zi13ZmNMQWFVSmFsbmxBeXFyMWJwWURZSWJxZ1o0OUFnZlFWN3cwdVFtUzdwSXIxakNaUDBZeXNfWS1TaUFON2ZpSkRmbmJac0M5SFVyT0tBeXZLc2tfbFN1S3c1enBVcHc?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-d973f26e6234ad14",
-      "time": "2026-11-19T08:46:07+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic’s magnificent IPO",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGt2bjYzX2oxNjNraXRzdl9qRlVIQjBqcFoxZ0lTM2JYSnNSVy1BQU51UFgyNVFVRm54SkFObW9kdmc3VzREUlpGSnYxeDFWMVVyNjZCTWo0WjUwMmhLa2hwVy1RMjBjS0lkS0wtdjU5R09tNGR2WWZBV3hwbjlSMmV5MkY?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-588da3c277ad7f7a",
-      "time": "2026-11-19T08:46:07+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut",
-      "body": "Bloomberg. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3BkQzh0ZFBoUzZmTzU4akxveFYzZ2pZWEM0aklQWU50RlBfaW4yaDNTMWxKbzFmZ1d3QW96ZkVjOC0zOHh6eUhGWHhZbkVqRHdGc09WSnk3ek56UTJzYjZtZXI5cVo5UmlRd1JJUE9Qa29HRXZEN0JZZlFNR01yX2xpYkVGWDNSTVNxeGFCTzNBZ3VDc29BQlV6dzdBdw?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-2f30b1a128ed75b6",
-      "time": "2026-11-19T08:46:07+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic retail investors face squeeze in blockbuster IPO",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1BxZ1lwWHZTQWl3dHVtU0pTVFhGUmkxVVBkczk3bEtaNzlsN0RjY21hN0t6OUJhQlpKQlBGR09GY3JseHVhcTY0clp4eW54cVJHT1RKN3JQdEU2aEVxX2hqVzd3UDBSRmxZUFcyb0tGYUNucE4zUnF6YzhVaVE1cml1ako?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "poly-anthropic-ipo-closing-market-cap-higher-strikes-202611190846",
-      "time": "2026-11-19T08:46:05+00:00",
-      "kind": "odds",
-      "badge": "Odds",
-      "title": "Odds moved · Anthropic IPO Closing Market Cap",
-      "body": "Favourite: $1.25–$1.5T (51%). <$1.25T: 38% → 25%; $1.5–$1.75T: 10% → 18%",
-      "source": "Polymarket",
-      "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0002157947-26-000003",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215794726000003/xslF345X06/form3-11192026_011132.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0002158120-26-000002",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215812026000002/xslF345X06/form3-11192026_011136.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0001033331-26-000003",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000103333126000003/xslF345X06/form3-11192026_021143.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0001221820-26-000004",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000122182026000004/xslF345X06/form3-11192026_021133.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0001997244-26-000004",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000199724426000004/xslF345X06/form3-11192026_021127.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0002158441-26-000002",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215844126000002/xslF345X06/form3-11192026_021134.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0002158002-26-000002",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215800226000002/xslF345X06/form3-11192026_021150.xml",
-      "priority": 3
-    },
-    {
-      "id": "edgar-0002158079-26-000002",
-      "time": "2026-11-19T08:46:04+00:00",
-      "kind": "filing",
-      "badge": "Filed",
-      "title": "Anthropic filed 3",
-      "body": "New filing. Filed 2026-11-18. Open it to see what changed.",
-      "source": "SEC EDGAR",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000215807926000002/xslF345X06/form3-11192026_021154.xml",
-      "priority": 3
-    },
-    {
-      "id": "news-93dfe6c6f8f69490",
-      "time": "2026-11-19T01:05:45+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "CoreWeave and Neoclouds Slide Post-Nvidia Earnings As AI Fears Remain",
-      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSE5oTC1HaGlReUpSMUdEWFB4MG1XM2VkWnZpdk91QlVPZVQyVmoxaGpOM1pLLU9KcXl3VkdIMjdfbkh0VHBfVFk3X0FqNW8tOGZmNXJjTy1PUjFXUExMal96R0FYcGhfNHZJSng1dTllbTZYck13UUhtaVEzbDd2VXI0ci11MXhMWWswSjJxNVpxdw?oc=5",
-      "priority": 2
     }
   ]
 }
