@@ -1,6 +1,149 @@
 {
-  "updated": "2026-11-25T08:23:50+00:00",
+  "updated": "2026-11-25T18:47:29+00:00",
   "items": [
+    {
+      "id": "news-ce6ed2a34c6b658f",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
+      "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTFkNFMtbmN2M3hMamNGeTh6S3FONEUxUTVDRDBnX1R0VTVGdGV2QXJrcXpfZGM5ejBNUnZ0VDJIcEdKNzU4S3NaeUU3R2ZsMElENWhmb1pVS0hqLUdNeUZlUl8zeGg5dDdUNFdfbU5RUDZaVThxbThTdlJlaHNrTHdLQjhhNmQwekEwVklHS2Z1VnlKZlh1ckhfTXEtUndxcVZwQTlreEF1TGVybzAtMEhaeHgyblI3bFEw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-a9261864dbe50b1b",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "AI stock rout deepens, with Anthropic hitting $74",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-21837a5876052c1b",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia Stock Keeps Falling. It’s Obvious Jensen Was Not the Only Problem.",
+      "body": "Barron's. Single report until confirmed by a filing or a second outlet.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qNE95d05EdUt4VmhtanBHWXZjaEZhUktJLXRZaUNqejRZWk1lRW5lRUdUbFhMOGM5OUZBVUNYOVAwZTk0LURzQ3RSZHJTU29QT3dGdWhyTjdaMzJUcUdFaUFMMktvUkx3aWE4LTRvUnYtN3NYZHU0TTJR?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-48b00a5efa5a1fcb",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-468dffeed86ef1ab",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang’s lessons for managers",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUZqYTI0cXVpczExdGlHSXhRUm1vWG9IY016RWdMbV9ETDh4blVLZFNqR0xLd1hudXF5MU1Yc2JmWEV2V04zb3dmWkc3SHF4NFRWdGlGM3l2cEc0Ym5LdXctSHV1dHpnT3JBaERVUU5sbWRIOGJZMDBXazVXSUZCX0ZmVFk?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b31ba2c402e008e2",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM1MzT3BJb0JlQ2xzdTJRZi12MllDSlBzS3IwMlZkYVZhV2NuUnpPWGV3LW9lVUg3MTg5QzZ5amhpRTZMeThEYXpLSHc5Q1RJdkh0RVVmMmd0aEQ4OHZIYTBWZ0JiWV9FU2dPbnNjQ1c4LXpfNFZaWmlMckdqWkl1U2Nvb1NoZUdlYVNNQ2xYVHNPc2ZQY05qS0xTd1lUUkowaHdEQUlLVGhJYjdPM01JMFByUDV3QjRhQmJ4aThsSDhSQTIwSUpfMy1UZlE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-da1a5364ac90b21d",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jimmy Kimmel: ‘America is running like the security system at Jurassic Park’",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWtVODRwbjRCZE43S2pQUkRPaWNjUGNBM045REJnanRud3F2dlh1RG1lTmZWU3hCanVoMVIzcUM2Ym8yWE8xU3dqUmN5Y0xJTHA1a2xiRExCcE52eUhJR2tBNE9wb1diaDFxaVZGRkVyYktKS2JCaW5PTklraHVDZlM1OW1pVDA?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-065173dcb701d884",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Trump’s accounts traded Nvidia shares 44 times this year, records show",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzeG5POVNQREwyaGhoTnNCb0taYVN3MkRDNjItbUZyNmZHU2taS2F5Q2dKaDVYeVFWVTg4bG1MNlVmb284Ti1pOEwyRzJ1RjFXVHVWWEZmR2s?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-dbe747ceb0ddbd85",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUk2WFAzeE45VlllNGFmRXN3UXBzM3puMV9GdURNYVJIcWxwQmpCN2p4Ni0zSC11YzNMaVp4RVNtV1BSUVB4cFd4bG5fMlowU09FM0t1T1dMOVVQV2hMNEtJZDR3SkhtZVY5TnNPZmVQampKcXczVDUxZVR2ejJxV0thaVRnaE9GckRaZUlBYlBPT3A4LVE?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-be9ce448d4b38deb",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1QtdE95dUdaZ2Y1R1hLV3FidmtBRmdPWnlUdEU0MVRDSFNjU0xZa20wczZMVU16eVBqOEhjbG1pMHJaN0ZvMUJ3WV9EQXJMYU1aaFZPYlZ2T21SemMzNm9XRl9RVElEVTNKNmRJXzktRUs2ZTNaN2lNcU5OcERrelhR0gGHAUFVX3lxTE9tbWZXOWQ5Z2ttSGpUcWx0Nm5mNlY3R3NPczRRVEpEYk1WMjBOM2MtNzV2SE54a3VHbUtlaHNkVzJ3eURRT20yOHRmdmVkRC1vekhqSFJMZkRuSlE5aExRQzEtYzRDSU0xTEtPWmlPMHV5Y2xMRlRQcGxpUXBVdm1RNE80WVZBWQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-80f51b62ae4091dd",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-6ced6cdcb65aeb8f",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnA5YTMwSWRSUnZxYzBTbDFmd1FXejBuclc1ODdIOERNaGdTZG1iSWVUUm1kMGV6VG02YUp0RG9RRGJUOGhtWW5lOWk5N2ptSUVQMmp2ZXRPdVVLOXdQUjhaRWpfWEp3NXIyZHJDSmx1WnJZWXR2LXBEY1ctQnBjVVczc2ttMEhxSUxNazJGT09yQ3BiS0Q0Y0llRENGeERqQ29VWE1FZFdJQ2hxZFpvTzI1b1Vmdw?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-5810120d80431bb5",
+      "time": "2026-11-25T18:47:28+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSF83OVQ0Tk9SdWpTaGVhdWtiV2ZUVUp3Nkc5d2dvczdOYVRNaTk3VmFWTGc2VTNEWGVtcURRNldneFk0NUNtUjVxQ0lOU25JQXBqdGtMZkVoYnVuMGh5RXFtb3ZmcXhhcFFzVVEwVTF0RVl6OVJiazRobGtBUDNCNlRaSkkzbmFxS3h5NVlwTdIBlAFBVV95cUxOM2ZuRlVETzNPTE5USlFoSDg2aEFYUnBBZlFMT0R2eHNxeF9uVmdKYi14QUlTUTRsZTJUOExpMEVsOHFpMVNJX2ZnblhMR2kzSnVFZHNjWGptcThYX0Y5d2tyM3A2OTdQMnNHcDBmcUR3S0ZUTDhPYVpVZjg5TFlyMVJ1NGVKN3djaE5QZjNCZzNJV3FR?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-154eb6efb729721a",
       "time": "2026-11-25T08:23:49+00:00",
@@ -2056,149 +2199,6 @@
       "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-8585268054e2790e",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic’s Massive IPO Is a Stress Test for Public Benefit Corporations",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVNsb0JiN3FPZzRvQS0tMFdaV0ZRMkZ1UFZRVTZ3MmJMS1NHeGplaXlBa2xyMjVUU1N1WGRUcDFXdUZkWVhLbUgtTDVxSHp2Q3g5cC1kRUtLQU9EbjB6ek1CcGpfbnVHcldqNVJyaUxQSTRGS09Tb2l5VG51REg5dFNva3o0c1h1VjZuX1hSQkt2R0N1RzZSaVNqMjU4S2lqdTBsbzI4T0FkMWJZeXZCdTZkWVh4ZVdi?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-a64e4720c7b54d1d",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Traders in new market bet on big IPO pop for Anthropic",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmt4cmR3RzcxcUx0cGtiRXFYUmpscEp4dXp6TkM3Zlk4UjhzdlB6d0YyR2JnOWpPN0JuTG9IeTVwZWJUY1VRS2RQZXc5cER4clBfbUtvQ0JPczM2RUozNzVMaXdCZk9xdV9hc1dlS09OSnQwak5HT1dTbXd4R1Yzd2ZidUpHRDlVVHB4R0QtUUVQOTJ3cWfSAZsBQVVfeXFMTUlqWUloQmprNmVWUEwxT3NSaUNPYzRwSWx2QnUxeHNiejNjREE3SllkbC1wMWdBU0Y0UFdrd0pzX1hjbjZZLXltdU5EOVRPcG1BWGNHZWw3M1dYUnpZWE5xSC1rTmpoeWRfdVdjTll0WWljdFNkQnNxVUNreTl4RVZaRzJaNkhPLUtHT1lMTkVpa3J6ZDdLRFhCdVU?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-939369ec32697147",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "The key to Anthropic’s value",
-      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTgtbmNZcXNBRXBISUs4M0lZQm5McFR5bTZuWEVxNkgxaGVoX1FsaVNTZFgzU3JlbGVnR2lzSUs3SG10X2dYX0otb2ZHVXlXbDExVHhqMUpiaXBDUEVSekdVUVNpQ192eWt3WHlSejIwMVhUZXpaOUQ1VHdIcUNmZE1qaHQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-b8c99b6f3b427c16",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Watch Protesters Converge on Nasdaq Ahead of Anthropic IPO",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUJ1bzZRWHNwVWNEZ0lpVTM1WDhITjIxbkZNMXJ2M0d4WHlQMjA0N0dwMkttZ2ZUYzQtM0hXMk1GeGo5MG9hSU85cmIyakF4Ylp3cnN0NXMxbHB5WmVmU2UzZnJROWx4RG1ueVRaNUNYdXhWNlVmRElzQXZvdU1ZbW9SZzhWT2o0VnRLaWJyaWhPa182cGhpVG5WQWFncFA2cWtvYQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-46a2d2e77dc1385f",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic Founders’ Fortunes Soar to $140 Billion in Record IPO",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONm12b2M3cU9FUmRXYjM1WXdDNUphc1lnNGRIbnN6RjJ6dTVHdkUwRnN5NEhjRDRWSWVaanpSZ1I2d3Vpa3ZjTURYX3A4bE9Xd3dnSlpDdjEwc0lVOXVTZnFja1RDcWdodENmcEphOTBPd3ViS1hXLTViR1VObFpqdmtCeVRTaE0zVUN3RWp0a09qSTg1Q0NsRi0weTJmTlhFNXc5NklyXzEtSXFhOHhRakFR?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-28c4838cd22ba0df",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUlCck41bVlFamthWGZnMXNTRG8wSm1KejZibkVvRHk1RWhpRHlMRENjTUVVZXZ1M2ZLdUkzZ3BnczZDY0JRU0t0d1J4LWZ5NndLNDdQX1BmNE1iblFHQkFpSDZlWmpTUVBOZ0t4NVZfYzh2dTduZFBvV1VibTlwNVZaaWg2QVc0MjUtMWpDNXd6OVRuNkg1QnJjSzg0WWFDQnlz0gGoAUFVX3lxTE0yc1BGd2w2T3FZY0owLXVKc1dNdTVCaDFTOGZxeDhuV2RzN0lsZjFBTDN6NThodlZEU2pMcHZZenktUzRLVFVPeDJjRmQyS3dOSy1PTkkwM2xaNVBXSlpGNUN4U0ZOUl85dVUxLXZwWVBDMFBtSE1YOGtwR3dIOENxUDVhRFZTNkJNQjFVUHhsTjh3dC1FZnNsQTR3QTBfd2ZZYVlrenQwRg?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-913df2ba1aa91f76",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Watch Anthropic IPO Delivers Wall Street Windfall",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHE1clR3RTM2d3FscXVycXNFMmM4clRZV1NBMWtBN09KY29rWnZmbElNV1lrWDZIamU0dVE0S01PdUQyUWlDNjRjeWVZWnZDdm9QUG0ydXRTQnJXMnBvYUx6UF9PVDFvUVByazZOUGJEeWVMWXB6clpXX2IzZEdmZ1ppaWVobHduQ2JnR2xMOFlIYXZUZzVCc3FNbkhvMlU?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-fb84da986b9dd1c7",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDhpMy1RYjlZSXlPb0M1UEFMWkQtd1o0S2p3cHByejFleGcyRWg4Tl9sZEpzMFNDaVktei02dUFyZ2dhaGNMUGpVYkZDemZ1MFNtdEFra2hMYnpaWjZjYmhSZG1Hb0VyMUpaaGdkR3F5WEd1N0hiTUtIdzFIaFUtOTd2WTBneUhmU3E2R0MyVkpFRko2YXFHRnIzbTFhZjNSNVRrV01PWlc?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-a17028323a42ea8d",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic Poised to Surge After $107.3 Billion IPO Tops SpaceX",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXRrX1hfTVJkTGR5Z3pCeDhWUGhZUm9MaWpkVGVQQUdVVExTUDhkY28wRzJmNmJ0YW1DNmZCOHNCUzZaeUlVdW1QZ0VkNjU0a0o0YjVTTTNYRGt0ZXVhNjZGQzNXcjMzTEs3THFyV2ozZVVzcHg4Q1lhcFViUFRiQWNqQnJLdG9mdVhCYVN0cGR6bnV4N2lldGNENUU1aDZ2TkQzcDBuYk04c1JrQWNUR1lR?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-bceb23e3cdbbb714",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic is ready for its IPO. Three analysts see huge gains for the stock",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmpmX21xNUk1b3lTelZGS0F6YnZweENLaXRvUlh6X05tV3hvOGVPME1rdmdNVV9Edmg5TGpLeC1TR0psOHNVeFVMTkhMUVRNN2FpRVBwckdsS21Zamc3Ml9OM2xrY2J6XzRhX21tOU5EeEhhaTlJelRORVNVNWhJQWRQQk5OeTV5SkNETlN1ZExYZmFKeE45VzdvUjVyLVZaUXFHaDNTMlpYcVV1TUpndA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-c5e1b1e9de522913",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI",
-      "body": "AP News. Single report until confirmed by a filing or a second outlet.",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-48630a848b695e68",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "What to Know About Anthropic’s Record-Setting IPO",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUFGUE54V3lDd0xIV2x0c3V6TUY4cXNmcUVqbjJabDNZTjhaaXhQTmdPNHFCUzhsdHB4Z24wdUg5ZVg3Nk45MmljOXdXOFhlUTZfWWtpZlJRQUNRY2FYX1k4eHBYdEcyU2JLeksyNWMxOFUwSkh3cDdYN2xkYjNuUnUwci10dGFUeHc2aVVTSG5uQzRQN1Z6NldiQlZhQWtfTXJXMTAxeTY2OXhOV0ZNUnRiRHdYel9r?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-2d681f52fbdaee93",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO will create thousands of multimillionaire employees",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2lPZDEwREFZVFFuTGdUQTVST3dfVzBMV284THIwQjQwbFVPVVU5cWY2bWttcnZwNU1fSVkzX20tM2lvWENNOFJsS2E5emQzem1OQXVCUTd2am01Uld6ZHpONkxYV0tpbkxDMXNkWVhoTXF1V0NOS1BRVkVXV2JZOGM5YjVGOEwzZlIwNHp2cThQc20yWEF6VzNvWTNfVXlLemxHQktn0gGrAUFVX3lxTFBpM2NWMk9LRVNJRUt1T1BQRmtscllDR3ltT2MtTUdzLW82dG1Zei1sRERxMFpNR1pVODNsbkpyVFZvM2JWcXRrREhySmVBMlNDMzl3VXVfdDhveUtsVEdhLU9EV09jQ1ZNb25yaG9nLU5QSjB5dFItTTUwWHpfY3VwV0VCQmZVTW4yQWRtaE1rUGJlWmF4cVczQWdpZkJEb2NZc1Fnd2FWMldaUQ?oc=5",
       "priority": 2
     }
   ]
