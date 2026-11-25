@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-25T00:04:46+00:00",
+  "updated": "2026-11-25T08:23:50+00:00",
   "items": [
+    {
+      "id": "news-154eb6efb729721a",
+      "time": "2026-11-25T08:23:49+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "‘Tech bros strike back’ as Donald Trump rescues Nvidia’s Jensen Huang",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3M4TFRSRHpKV0R3aEE0dzhBRlV0SFlxam1QS2dBM05zZ1htNVpUSXdKRHlMY1NwdUl3aWdYamNJeko0alZESVM0eXljazJxdlZ2ODVKTVQ1T0xvM1M5UzQ2a0ExUC1ETEhHdWRhOVViVkxxeE9RVnZ6Y2NHLUcyQ1JZSTY?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-039dad808d703974",
       "time": "2026-11-25T00:04:45+00:00",
@@ -2188,17 +2199,6 @@
       "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2lPZDEwREFZVFFuTGdUQTVST3dfVzBMV284THIwQjQwbFVPVVU5cWY2bWttcnZwNU1fSVkzX20tM2lvWENNOFJsS2E5emQzem1OQXVCUTd2am01Uld6ZHpONkxYV0tpbkxDMXNkWVhoTXF1V0NOS1BRVkVXV2JZOGM5YjVGOEwzZlIwNHp2cThQc20yWEF6VzNvWTNfVXlLemxHQktn0gGrAUFVX3lxTFBpM2NWMk9LRVNJRUt1T1BQRmtscllDR3ltT2MtTUdzLW82dG1Zei1sRERxMFpNR1pVODNsbkpyVFZvM2JWcXRrREhySmVBMlNDMzl3VXVfdDhveUtsVEdhLU9EV09jQ1ZNb25yaG9nLU5QSjB5dFItTTUwWHpfY3VwV0VCQmZVTW4yQWRtaE1rUGJlWmF4cVczQWdpZkJEb2NZc1Fnd2FWMldaUQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-7218d6def976fe23",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15dzRrOVVqelBoc3VCVTlkNWZ2VHpjclpvQlI1MXlOdUhuWVlqa2Q2anllUDBwNndsSndhb25EVFdTMWxkWUotd01CTktjbFVEdWVwQnJ5cWxiMkMyMVFoYUM0UEk4NHdBLUJZVXJIY1hSdVnSAXhBVV95cUxPcURFd1lYc1VhSU9TUjV0ZTJDckZlMm81LUt5Z2lKVTRZQnBZalBKM083SmVLT0VSMF9TeFVMTGJpbDVlWTJvRVhJYWVCMm1GQ2RHNGRkQjU5Q3pUXzBURWkzbUxlLUM4ZDJKTjExZ3B5Ym9rRXBqa3o?oc=5",
       "priority": 2
     }
   ]
