@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-26T01:58:49+00:00",
+  "updated": "2026-11-26T10:45:06+00:00",
   "items": [
+    {
+      "id": "news-e046b10be4241a18",
+      "time": "2026-11-26T10:45:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Huang’s return is a terrible signal for US capitalism",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyN1h5enV2R0JOMmFzak1VRWd6N2pVWVJOTTdNVWRBaWdOeXJpN1BsVnIwdWRvQW9nQ3F0b05pQ1BUaVV6RkxoV2tQelZtRHlwUzNXeXpYbF9oNkZpVlNiY1BOY1NrVEJpeWtfVWt3c04?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-f4909f6ed48e504e",
+      "time": "2026-11-26T10:45:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang's Bank of Nvidia Dilemma Is Still Looming Large",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa01SdVN6ZC1Lc2pSc3JpRXZPUjRLcUFqTWRfdjNCczB0T3Y1NktpVHljaVhHU1BINTlFTUJrMU9CaGlFZG5vY1ZsRFpiOWlZRzNxUEJYSlY2TlFCQmJxa1hLWmxONGl0ck85ZXdnZm1HUkdwUjNuWGtFS24ybVlseFFESDQzcjRKZWhrZjhjNFd2S0lEMWhrX3I5bGpxZnVKN3RIWV9teWVobTRTa3JIclZxSTc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-46b510ce7be7d252",
+      "time": "2026-11-26T10:45:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia halts chip shipments to south-east Asia",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDFtRGxaSmJxdndYb1VMbTBjLWJGOExCdUdULWNlRXF6RG90SDQzQkdYb29GbmI3Q1J5UHp2Yk80N3R1Wkl4UXlfWFdFd0VmQ2FEYUZXdnFpbnR3SndRWkh6dVJYQlY1cHhQMWVkTEpJaV9lbHJteGc1ai0tS0ppYWxuWVI?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-09756bb86cbbacf1",
+      "time": "2026-11-26T10:45:05+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlM1cEVZV2FiQzNweFlINDdoTDVGaDFnOS02eWpIV3BDUks0Q2FNc2dUWUkxOHl4LThWVXJCeXFRMHFETVpORjR2Y0lKSkh5YVN0Y2dUR0pTb1dmWUJoQmtCWTdETmpwYWtDZ1otOTlHb2lpdWNpSG5Kc3Z2QW94VjlWX1doeEJOLW01NU04aDBBYmxFY3RnLU1Vek9jdmEtVE9TTmFJZ1pWd0xLUXpnUnZjOEx3UQ?oc=5",
+      "priority": 2
+    },
     {
       "id": "market-20261126015849-7",
       "time": "2026-11-26T01:58:49+00:00",
@@ -2155,50 +2199,6 @@
       "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
       "source": "MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTJ3VE0zNTdpNjgwZU1ZdnczOFlVZFBlSC0ycGdrTTc3V3piU2wxTU0tWmxmZ1J1UTlNbmVmMERHbTU1cDRNRXZ4TTdVNGFrN1czdFNiSHRNeXRPZlQ4WmlIN2ZnaVJ6SlB2V1g3SGVRUEViekRBTmlwTUpMWXNDZGFzUjVYY0pXUEUzbWRmSHNaUDRsNmlGaE1MTkFoZlNxQ09LNjE4djhuWlVIbDFDSjdGUlFId1R0WVR6OG1TX2o2V3BYNjhPajdWcVQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-a698f343e64c79a2",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Stocks making the biggest moves Thursday: Anthropic, CoreWeave, Coherent, AMD & more",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnM1LXV0d0JUbjQ3eDd2QmtPSVdMZUU4aGZUM2E5cDdvYnAzczlzRUh4OF8ySDRnR2plWmpwT1hvR0NZbGFGUHY5RTl3a2JHejdRTTk0SjBQQW0tNElvNEdqZlBaSE1GNERsNU1SZlFORTE4ZUdNc1lfcUhHVkt3amM4ZFfSAYoBQVVfeXFMTmd4QzlTZmM0THZwc0lHajZHTjNqUzgwZlIyaVkwQ0sxUC15aVFNVGc1RU5NYXJyd3JienBEa2c0dHZGejVnZXYycW10NkNHUWJZdjRrb1R4OEYwZXU5TzlfelpCZXZhWkMxZjVQakFsRDNjakw2YXh6RUJSZU5tN1YwWkVKX0ZuUGV3?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-a28d746b6cc258e5",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
-      "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTVPd0FEeTNPYkhXbFg0NV9XUVQ2WFQwelNjVlRmQU1pWW9KX1J1bDdHOXhLVkhPRmRmZmJxbDY1YUtkZWJKUnV3MFdtVkd0RnpQSVdJeGtUajY0NnQwLWhHVzd3T01fMDdOZGJSeVpMZl9tSDZ5eFltSFg5RkNHeGxhZzJXMnBiT2ZoRUduUjB2eFI5WTlLMU1LRXRXelRwbGFkMUk5c0xiZHhJWFN5NEJFby1mQQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-a0b911ec0106afa5",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia’s Colette Kress Takes Reins in Crisis",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzkycVhaUkpVb1VCeWUya2hydlFVM01FNElGZ2lwQ2MtSVJQNnFxbS01TG0wenI1VEhLempGbGs0MUNSd3dxT0lDWGZQc0lHVl9adTlsZ25aOXBHQUNrSG1NZWctYk53cnZ0WHY2QW1CM001ZkItaHFVY09ndFJrLTJYUlJER2ZyYjZKa0tTaFVEc3A2cXM4Q3E0Uml0U2s3TTFJR2NrbVpfQmFEZXJSckVOeVlkQkZBOXN3eHlhM2U?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-86e43da1dae6605f",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5renBiTFZfWW5JYjR5VmVjOC1ZVWVlMWFqa2NzNmZadWMyUE8zYkxVaVhCYTBUTm5rU0VoS0ZvdVJBaEljeWxpRVV6WkVrbUM4SlVfUERfRU1wbFg3Z1hlRHF2M250ZlQtWWZTek9tb9IBdEFVX3lxTFBmOHY3TDNVM1JySWlETDlPMlRsOE5QbW1lYlNCaXRKSGp4eVZOZkJ0TF84WGdJUmd2eU11aklNYkJEZ3I0RVRYUXdDU1BldVBFNkN5cmJXODAzUUV5SklLSENQUUltOVBNZWRsQmtOU2tHaFdh?oc=5",
       "priority": 2
     }
   ]
