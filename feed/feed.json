@@ -1,6 +1,94 @@
 {
-  "updated": "2026-11-25T18:47:29+00:00",
+  "updated": "2026-11-26T01:58:49+00:00",
   "items": [
+    {
+      "id": "market-20261126015849-7",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "market",
+      "badge": "Market",
+      "title": "VIX above 25",
+      "body": "VIX at 28.29. Higher fear tends to hit new listings.",
+      "source": "Yahoo Finance",
+      "url": "",
+      "priority": 4
+    },
+    {
+      "id": "market-20261126015849-6",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "market",
+      "badge": "Market",
+      "title": "VIX above 22",
+      "body": "VIX at 28.29. Higher fear tends to hit new listings.",
+      "source": "Yahoo Finance",
+      "url": "",
+      "priority": 4
+    },
+    {
+      "id": "market-20261126015849-5",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "market",
+      "badge": "Market",
+      "title": "Microsoft down -3.6% today",
+      "body": "Microsoft at 489.93. Anthropic compute partner and placement buyer.",
+      "source": "Yahoo Finance",
+      "url": "",
+      "priority": 4
+    },
+    {
+      "id": "news-b5f11747a763cf36",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3pncTF1eHhUNWNtdVZENUVvaGlLZkhDV1ZacktfUmFRQlFTS0NHSGpldmExVUE5QmFUSnVBb3g5TGhwWndpTnA2QjdUVm9MRjduWVpMcldiejVYRGVyYUItYUtaMUJiZVBpNjU2dmF5bEQwX2V6MllwbC05cWRkODVUZGpsbU3SAYwBQVVfeXFMUFlULXFKcGszVUNvMFdtMV8xVXhlYVEwMEhvVE1TVnplNmI0d0ZDOUplZkkyYlFVd0tOeHhYb0JkYXJpQ3J4TWxDaTg2LVpmV3poN0VTWFFpWmxwX25UOXBqR2Jwa3NsUG5LeTVsOXh3ek5yNzNONHU5WmdzZW1ZZWp0Y1lGTjJRa0pqUFc?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-b5a265fa53612dca",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "NEWSLETTER: Jensen is back. What’s next for Nvidia?",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZEaGMtUmdmSmZPX1BXTmtqRG4xUXpNcFFiRmxWY0d2MnBmR0ZUWVRJM1d6Q0N6QzVjZ2NnYXVZTFNXejg5N2JaeWZTYTlHWlZJNFZYb09kS1JsY0ZadXVrLXZXN0lWNmRQdThKMmZOV1NBd0FYNk1CNnVPN0g5Zkd2ajh0c1l4VlFLbkNCYldadTl3c0Jrek0zak9XeW9BTWJMVkJ3?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-605dd0ef1aab35f0",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "How the Trump administration determined Jensen Huang is not a national security threat",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-43635583ee144558",
+      "time": "2026-11-26T01:58:49+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "edgar-0001628280-26-075973",
+      "time": "2026-11-26T01:58:42+00:00",
+      "kind": "filing",
+      "badge": "Filed",
+      "title": "Anthropic filed 8-K",
+      "body": "New filing. Filed 2026-11-25. Open it to see what changed.",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm",
+      "priority": 3
+    },
     {
       "id": "news-ce6ed2a34c6b658f",
       "time": "2026-11-25T18:47:28+00:00",
@@ -2111,94 +2199,6 @@
       "body": "CNBC. Single report until confirmed by a filing or a second outlet.",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5renBiTFZfWW5JYjR5VmVjOC1ZVWVlMWFqa2NzNmZadWMyUE8zYkxVaVhCYTBUTm5rU0VoS0ZvdVJBaEljeWxpRVV6WkVrbUM4SlVfUERfRU1wbFg3Z1hlRHF2M250ZlQtWWZTek9tb9IBdEFVX3lxTFBmOHY3TDNVM1JySWlETDlPMlRsOE5QbW1lYlNCaXRKSGp4eVZOZkJ0TF84WGdJUmd2eU11aklNYkJEZ3I0RVRYUXdDU1BldVBFNkN5cmJXODAzUUV5SklLSENQUUltOVBNZWRsQmtOU2tHaFdh?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-f5812cc69fa43442",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia Moves Ousted CEO Jensen Huang Out of the Spotlight",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlduRDVoZzhvc3Z6OW9BZWpnamNyT0cydURmSlctVDRhajZFRDIzdl9uMUx1MFZaUDVSUG4xYzByek5JTFRvRnRUdl9WMHZWSV90a05mMDJQb0pXbGRzWTZkaXV6TXBqbkl0RERGY0pTcDBidUtmcHJPX3dUNGo1b29RN2NsSFRqR1ExRHQyOGItOFhpMUdOT2hyV29LVExjN0luaER3OWZFME9WTzZuVg?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-1793a303a072a749",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "‘Key Person Risk’ Is Back in the Limelight With Nvidia",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzVhQ3EzNi1PbEI1VEFQX3pqeGhrcVJ1ZTBiUTVJNUdJU2kwN0JKcnVXNEM3bVBIbU02b1dUZWt1Zk5Rb1JvOVAxWFVtamtqcVdGUEVvVFlDX2ZlRDB2UlU1RHFVZHBOMWpOQkVIeFFPWDNLTkhSVjRna3VPd1ZIdHVVY0NvVmx2TThHYnFjU0RpTG5vR3dYVHQtSVMxNGxBYmJ4UWV3Z2ZnbTdSWDJvQ2RlVXRPY3c?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-d44daf02cfaefd52",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
-      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2F0OW5ZRHVmc3JObmpsY3V3UWZyMHMyb1dYNFZkaTMyNDJtN1FjdjVoQlZKRzB3WkxTVkM0cVJUTElVNm15a0QzWDVGNjlVbnNMLVJYZjNaYkc5TXBsMlBnZ3UwTjRQclVDWl9veGxxNU1WV2FzN1NHY0pkb3NZeDNGYk1zQVNhM3I3Q0dWTGlBLUhtRUVNeWN1dTN2RDRf?oc=5",
-      "priority": 4
-    },
-    {
-      "id": "news-8c6a23f7d1714109",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Will Anthropic’s IPO Lead To An Exodus of Anthropic Employees?",
-      "body": "The Information. Single report until confirmed by a filing or a second outlet.",
-      "source": "The Information",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFozLUgxYVZFT2YxZFl0WXg1anVUZHhQWVgyaUkwWHNJWUtpd2gxLUdIN3ZCR0U2Zm1YU0VvZ2dsVWp5OUlEZzhMVjJudlBKc3hLSmZZN0Y2M21qMlFyR2h4Mk00V3dzdF9kd2o5dkRwY25TLTlJMXBaRnN6MnBNM3hHZXRLSTdlM1BZMzZwSy1uWDZrVDItS2FmYnBVejVCdjhtaDlrdw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-9d4b1e55c7446939",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic's $2 trillion debut puts key executives and board in spotlight",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTBmT3ViS0VFc0pmR1h2UEFFT2ZmaTlEbV9ZUm5uN005XzRpUFRrTXlzSTNQOUNHQUFCMm9xMlRDckNmWkhwSnpJQ1NodFlELWlaWFQ2dm83WjdhX1ZMUFU4N2xFVjQxbEk2b08xTERDT0pFQklqRV9hbHc1dUdYcVhWWDdUSzhFX0VOQnFmeklTN2w5RjVJQ2tkT2w?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-96794ce4f0cfea0f",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO Provides Cash to Continue R&D Spending, CFO Says",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWRPenhGcVpIMmVtak40YS1mTTNlcDJjS0hjZ0lvOF9WbElRYmZ3ZENKdnhTcUx1bndKS2xrRll5OEJIQmxLLVV6UjZ0ODR6Mk9JMjFGRjJKM09DdkNuM2NMSFVVZGlqNGkwU1F3TW00eEJqNzBCTG1XX245eVBVNHVtTm52cXBjVllhTjBzXzMwenk5dkt5am5KMVNKM0tVVm80OTBhWVlMLVVyTm9VVFNR?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-2b775b56dc6a72fc",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Who is getting rich from Anthropic's record IPO",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPancyR3hqXzc1cWJHZDlBeDc5Wk50dkNqX0R4VlFEUFV2V2FLNlkzVTlRd0lxQ3h1S1FrWHQ1UG9UM3NwT1RuZUdUVWszek1FR2xzRDhZM0RWNGcyWm9SZVR2NDV4Mm1UTXlLUm5XMUlFMUY0bmhtS0QyM3N1bzRVNE1YSVREbms2UTYtQVVPaXpXcVZRTG5haVVWYXRKZw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-36f80c98ed2b72ef",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "VIEW Anthropic set to soar in debut; will AI peers follow?",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
       "priority": 2
     }
   ]
