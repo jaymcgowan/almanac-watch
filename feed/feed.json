@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-26T10:45:06+00:00",
+  "updated": "2026-11-26T19:52:46+00:00",
   "items": [
+    {
+      "id": "news-4a47df7ebb0a17b9",
+      "time": "2026-11-26T19:52:44+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "‘Not really the thing to take a victory lap in’: the meaning of Jensen Huang’s new jacket",
+      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTm16REh5ZExoNDdOYVA4M1FjRHhxX2tUWjZhSW51UEozSkhTZXNIb2VOUV9NelFJNGpmR29MT1E4N0xIdEdVS3NaZG9NUG1oUVFzbi15QVhwc1pLUWplUVpDcVpkekZKbnVIZ21lNmlmOHU2TzN6anRWYWZDR0Y0NmRUeWNseGVGeF92SXZ3dFFrQ2tibF9QbTlULVJWemhNNldCOTRJd29WclBfczJfcUticTdsQ0RfWjRoVWtNQmhDR1M4V2FxV1B2Wm8?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-e046b10be4241a18",
       "time": "2026-11-26T10:45:05+00:00",
@@ -2189,17 +2200,6 @@
       "source": "Polymarket",
       "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
       "priority": 3
-    },
-    {
-      "id": "news-d80b9d19be157450",
-      "time": "2026-11-19T17:44:49+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTJ3VE0zNTdpNjgwZU1ZdnczOFlVZFBlSC0ycGdrTTc3V3piU2wxTU0tWmxmZ1J1UTlNbmVmMERHbTU1cDRNRXZ4TTdVNGFrN1czdFNiSHRNeXRPZlQ4WmlIN2ZnaVJ6SlB2V1g3SGVRUEViekRBTmlwTUpMWXNDZGFzUjVYY0pXUEUzbWRmSHNaUDRsNmlGaE1MTkFoZlNxQ09LNjE4djhuWlVIbDFDSjdGUlFId1R0WVR6OG1TX2o2V3BYNjhPajdWcVQ?oc=5",
-      "priority": 2
     }
   ]
 }
