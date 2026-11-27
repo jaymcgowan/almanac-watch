@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-26T19:52:46+00:00",
+  "updated": "2026-11-27T02:41:26+00:00",
   "items": [
+    {
+      "id": "news-45872f34eefae125",
+      "time": "2026-11-27T02:41:26+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
+      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-0b793e0b5d9d8e44",
+      "time": "2026-11-27T02:41:26+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "body": "MarketWatch. Single report until confirmed by a filing or a second outlet.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkZ4TzUwSHNOaFYtVC1xcnRINWZVdHZnWGZCNHpqbUJ4dFF1QmJnNkFOS1Z5cUxRNlVaU0c0Y1JvSFRZMWFxRjU2VWgxWXhOX1hHZHZJc3k5Q3pWb1MwbDdfSU1WQTRjWjZFUWlsUEZlY3NoZUI2NF9mNk1teWRSS0VCdUZ4d1VvUW5mNS1KWWtqRENUX1NKNHpCdElhSnVjZXRIcE44TDRsMkN2VUI2cnZnd08xVVE4OThudzAwT2M0cWNB?oc=5",
+      "priority": 4
+    },
+    {
+      "id": "news-c63b06379f56beb3",
+      "time": "2026-11-27T02:41:26+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
+      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekVhUDhXYTk3OHhmSTRyUWlaNDZyaFUwZkpBVl9Id184LU5aT3VmWHZJTlNKWDhJRkJzdFFTS282dzFycURidWdiUVcxU0o0dUM2UlZid2xNdVpJWk1YMHhZTVgwOGhwdlVVaFZoNDNJeF9OSDI5WXRJNDJxS0h1Q0VKbXlScVd4?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-03085556afdeca3f",
+      "time": "2026-11-27T02:41:26+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41YlVGc1JsY3A2MEFYRnFreHZKNVJDdk9SdXE2Uy1DdzA5RWdNLVFPeU5fTC1TNXZWUXUwRUFienowR1VUNU9TV3NPTWtNbFlGeTZvSlJPWW1zUzNLY1E?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-7e63db366ca3f7fb",
+      "time": "2026-11-27T02:41:26+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-4a47df7ebb0a17b9",
       "time": "2026-11-26T19:52:44+00:00",
@@ -2145,61 +2200,6 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3ViMmdRYTY3a1JpMDJZSlhPTksySGk1NUk0dlc5U2dVTnNzTHFCemdCR3hRdlRuRFZlUEFsSHgzZEc0TDJuY1Q1Z0g4eEhrYWNPYnFTUlZxbk80TnctZWNjZmJhUm5tYXEybUlhR25TMFI3aXU2UWs1elItRGYwcjVscEhxVG1mOE5qUlZOLUhtUnpQYkFRaERBbjl5Q2pQdnc5cmRIdkl4Q2s?oc=5",
       "priority": 2
-    },
-    {
-      "id": "news-c2349998771cb9ed",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-d4ca7e4afbccb100",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
-      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHB5X1lEMXMzLUlLeXViRi0zUjF2Z2doNWY4clNNUWFMZWJsMWp3MWxRaE9pMWNBQjZEbGVRQV9vTGdudm5kUkFUallkZXlKdnlMZEl6Ymxwdi15NVBSOFV0RnlwNGw4OFJ6eDFZV3FQTzUwd2dRTlUtN194ZU50N1FSMA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-3793868227aefed2",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-      "body": "The Guardian. Single report until confirmed by a filing or a second outlet.",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maUJCTXFWclNjVEFUY3FpTDh0T3daWGk3NkZlS21KYzBqNXBDUlBuc1QtYWFtd0FROXcydXA5LU1ENnltNlFiLWJzUjhJZVFrc1FrV1FYeGUyUkpNUThfaFBsSjE4VkY1NG9ZVGxNZkg1WXpfY3hMWlRTVzFmdw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-2ea8194a40c10471",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "body": "BBC. Single report until confirmed by a filing or a second outlet.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4bXR0SGt1c3FHQkZVY3AxVTdNODdtMHhVLWVkVU5DR0V0dHk3dGhaQzFBMWdwdXRhb1R6ZzlNRkc0UWxWMmdLQjBkMHlQdS1OdFJZUFRabU9nUDNCemc?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "poly-anthropic-ipo-closing-market-cap-higher-strikes-202611192355",
-      "time": "2026-11-19T23:55:19+00:00",
-      "kind": "odds",
-      "badge": "Odds",
-      "title": "Odds moved · Anthropic IPO Closing Market Cap",
-      "body": "Favourite: $1.25–$1.5T (100%). $1.25–$1.5T: 70% → 100%",
-      "source": "Polymarket",
-      "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
-      "priority": 3
     }
   ]
 }
