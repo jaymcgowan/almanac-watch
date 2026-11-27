@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-27T02:41:26+00:00",
+  "updated": "2026-11-27T11:27:56+00:00",
   "items": [
+    {
+      "id": "poly-openai-ipo-by-202611271127",
+      "time": "2026-11-27T11:27:52+00:00",
+      "kind": "odds",
+      "badge": "Odds",
+      "title": "Odds moved · OpenAI IPO by...?",
+      "body": "Favourite: June 30, 2027 (40%). March 31, 2027: 14% → 24%",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/openai-ipo-by",
+      "priority": 3
+    },
     {
       "id": "news-45872f34eefae125",
       "time": "2026-11-27T02:41:26+00:00",
@@ -2188,17 +2199,6 @@
       "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWnc1SGRDaS1GajVyZzNiR204T2t6NTVtVFlJODU3VHRQWG1pUDRBRmQ0U0JPS09tc0F2NzltWjdWd2V2Q1pMSFQ4ckRwYVlSR0JwdWpTVVZ1YVZrWU51SEhYYUFqVWgtc2ZvNGxJWm9JLUNfY21PenI4SFc3STc4SXBzbFc5WnJmQ3VwZ0JlaU9aaV9DRGt4NEEwMUQ5bndQR2dIX1dlNllMTDc0WDBWdkxCNHM?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-1605c8fb7483264a",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Watch Anthropic IPO is About Capital, Says Kathryn Thompson",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3ViMmdRYTY3a1JpMDJZSlhPTksySGk1NUk0dlc5U2dVTnNzTHFCemdCR3hRdlRuRFZlUEFsSHgzZEc0TDJuY1Q1Z0g4eEhrYWNPYnFTUlZxbk80TnctZWNjZmJhUm5tYXEybUlhR25TMFI3aXU2UWs1elItRGYwcjVscEhxVG1mOE5qUlZOLUhtUnpQYkFRaERBbjl5Q2pQdnc5cmRIdkl4Q2s?oc=5",
       "priority": 2
     }
   ]
