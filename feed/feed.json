@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-27T11:27:56+00:00",
+  "updated": "2026-11-27T20:15:20+00:00",
   "items": [
+    {
+      "id": "news-266da343fa9ce797",
+      "time": "2026-11-27T20:15:18+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "From Jobs to Jensen: tech’s metamorphosis",
+      "body": "Financial Times. Single report until confirmed by a filing or a second outlet.",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tLWFhNlBoNlVzeWRsS2w5OTFaOER2cnJRSXVISlYzRWVhbGJ3aHBiVl8yVXdOOUxPQjVpZjJfb3ZCV0VlU1ZqYl8tN1plNm5jN3E4VDdRTDI2MWx3RjVtXzRWTWFLaEdSM082dU15N1I?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-6f0c2fc6144f56ca",
+      "time": "2026-11-27T20:15:18+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+      "body": "Bloomberg. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+      "priority": 2
+    },
+    {
+      "id": "news-d1d115f4c23e3f33",
+      "time": "2026-11-27T20:15:18+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
+      "body": "Bloomberg. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGVqenZQM2JzRHFPVmVDWElvMUlUTXdHVFVlT2VOYWc3ZU5KM0czVlBfUGhNNWU0ekFjYU13YWdRS243RE10VEVHYW9DRzdmUmF4MndvQ2dnUmVxY1ZJZER0WnpZay12cUJqTE0tRUlGSlluYkgwem1wTG51d1FrdHF5SWtqa2F3MkNOaFN1Z0RrejFJOXdSLTFGZnJWTDk0emw4dlN0bVlRalJ0elIxdzAxUm9Idw?oc=5",
+      "priority": 2
+    },
     {
       "id": "poly-openai-ipo-by-202611271127",
       "time": "2026-11-27T11:27:52+00:00",
@@ -2166,39 +2199,6 @@
       "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHM5cDBDZy1mQTROUWhTRDlWb0FHX2V2SDZ1RGw2dnA0S0djWnVNSVJKWEFzcEVYQmVHNFh5UEtIZk41bHBWd01nSVJodWJVU0pFYVRjLWdpN0ROQkEyUmx2NFZYZXpXb2hOM05CckcxdC0wdmF1ejRPTXVadS0yQ0hWTXRYZ21nT3VGcGhvYkJVY2tCV3o2a1lPZWRvTHZacUE?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-87af4d50b2daab51",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic’s IPO Mints New Millionaires | What’s News for Nov. 19",
-      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDRramlWYXFmSjVVaFVuazdiY3NNS21PdEQ4b3ppcmF6Q21rV3hjMzRUSUtBQTJTYkJsSXpfMHR4U3hWa2k2bmRFZjV6YVlhOWVwTGo1b2pIVXZwNGM2VHZJNjVreGtyUlZyN1djOVpjUEhEYnZkTUlNRms3RnBjY0x2a3pTbHN5MWlrVw?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-21470947725c9b25",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say",
-      "body": "Reuters. Single report until confirmed by a filing or a second outlet.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzA3aGxPN3dWWXpGQ0NxUkVUdm9md2JpZnZQSjFtY0ZTeG1sazJtSUxMZHliR2Z2Rm5paDM2UjRwa3VXRDNUb2JCV0JOQkdiUnBnek50RTEtMGlCUmRsMTNaTkVfcklXVWk4SjZSRnFGN1BmblVxdVhfLVU3MkFkd3JYd21IY0ozME1KUjZUMjNXeHZGZzJxU3VrYWVkODc1RF9wZzA1UnBCRzBSY3dlQWllcEZaQzZGNXp6Z0JWTQ?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-ba7c822ca14cfefb",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Anthropic IPO Said to Draw Over $9.4 Billion in Japan Order Book",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWnc1SGRDaS1GajVyZzNiR204T2t6NTVtVFlJODU3VHRQWG1pUDRBRmQ0U0JPS09tc0F2NzltWjdWd2V2Q1pMSFQ4ckRwYVlSR0JwdWpTVVZ1YVZrWU51SEhYYUFqVWgtc2ZvNGxJWm9JLUNfY21PenI4SFc3STc4SXBzbFc5WnJmQ3VwZ0JlaU9aaV9DRGt4NEEwMUQ5bndQR2dIX1dlNllMTDc0WDBWdkxCNHM?oc=5",
       "priority": 2
     }
   ]
