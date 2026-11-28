@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-28T02:49:07+00:00",
+  "updated": "2026-11-28T11:08:31+00:00",
   "items": [
+    {
+      "id": "ant-first-trade",
+      "time": "2026-11-28T11:08:31+00:00",
+      "kind": "listing",
+      "badge": "Market",
+      "title": "ANT is trading: $91.88 (+10.7% vs $83.00 offer)",
+      "body": "First trade is in. Offer price, first trade and live price are three different numbers; Almanac shows all three.",
+      "source": "Yahoo Finance",
+      "url": "",
+      "priority": 5
+    },
     {
       "id": "market-20261128024907-2",
       "time": "2026-11-28T02:49:07+00:00",
@@ -2188,17 +2199,6 @@
       "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3k2NDVYclBNRERCTnNIaktpQmJWZXRtN1gzV0N1cnc4Vy04MzI0eGZVRGlBck1XQWFCcXFqRHY3SjcxY0trVmdUSjVkMXU3c2dxaF9hem14d3dCdFN6Qk9mMVpsTFhab2tMdGdyWV9DeS02eDBvdGVFeXBpWTRpbTZha3NGTVdQdXc?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-9201ebd8de65be39",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO",
-      "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0gyWjhIVGZYS3A2TDJtbVdaZVJHdlo5Smt3RkhsMHJ2bUh6ZVlOLWE5cDhkV3hXcmFVZFRVTmgxdlJXQ3dLRWREYVljemhSVjkycmlFYzctSW44YlhybXNtOFNyYVVvMEw2bGFNSmFnMEJrd2xWMklDbHJ4RGNRNFVnX1VTNUR0QXA5V1BaRlo3Tmo2eUE3U2lCQko5c21rQVMxOGlB?oc=5",
       "priority": 2
     }
   ]
