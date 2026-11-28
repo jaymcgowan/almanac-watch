@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-27T20:15:20+00:00",
+  "updated": "2026-11-28T02:49:07+00:00",
   "items": [
+    {
+      "id": "market-20261128024907-2",
+      "time": "2026-11-28T02:49:07+00:00",
+      "kind": "market",
+      "badge": "Market",
+      "title": "VIX above 22",
+      "body": "VIX at 23.81. Higher fear tends to hit new listings.",
+      "source": "Yahoo Finance",
+      "url": "",
+      "priority": 4
+    },
+    {
+      "id": "news-72dc68d067331465",
+      "time": "2026-11-28T02:49:06+00:00",
+      "kind": "headline",
+      "badge": "Headline",
+      "title": "Anthropic Finishes First Full Week Above IPO Price",
+      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVhwM1d4VGtCX3pRUlBUcWljb2JSOENMbHhNcW9WRDFCNnBrd2I5MzdkLVdOSkViVWFXeHNPQ1lwN0Rwd1kwR19XdGs0Ykd2NzBlNUVoaUMyVW5GRHFWYTl5MHlPQ0dibURnUkc5al8xczVnMmluV1ptWUhDVkQtNm9VYl9RWU1VWnVtQll3a0ZMQjFERHQ0T3F4ek80MjE4bWZWcHE0MF9Eb1ZZSzVuZk9EVHNSUQ?oc=5",
+      "priority": 2
+    },
     {
       "id": "news-266da343fa9ce797",
       "time": "2026-11-27T20:15:18+00:00",
@@ -2177,28 +2199,6 @@
       "body": "WSJ. Single report until confirmed by a filing or a second outlet.",
       "source": "WSJ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0gyWjhIVGZYS3A2TDJtbVdaZVJHdlo5Smt3RkhsMHJ2bUh6ZVlOLWE5cDhkV3hXcmFVZFRVTmgxdlJXQ3dLRWREYVljemhSVjkycmlFYzctSW44YlhybXNtOFNyYVVvMEw2bGFNSmFnMEJrd2xWMklDbHJ4RGNRNFVnX1VTNUR0QXA5V1BaRlo3Tmo2eUE3U2lCQko5c21rQVMxOGlB?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-019627f84f23ec23",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Retail Investors Dive Into Both Sides of the Anthropic Trade",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVLeWtTNXNMemprSnlQc1pNRmpPVUZ1T2x2bWo0NTdtbUo2QnRObFRKTFB6RGIxbkMwYXgteHRscHV3ZWpxc1Y2Q01Ob3RUdmt3bjVibVFzZDhNTU1NdDV3YmZNOTlYVnhEU3NwcktkUEZMbVZVc1gzSmZHYjNZTHNOUl9STVJqTnRDMDlDSVB3UTYtdGJ4RFplTWFVLWNNSzNyY3I5NF90TmtJLXZqcA?oc=5",
-      "priority": 2
-    },
-    {
-      "id": "news-e5dc83608ef74ef5",
-      "time": "2026-11-19T23:55:22+00:00",
-      "kind": "headline",
-      "badge": "Headline",
-      "title": "Watch Vogel: Anthropic IPO Brings New Scrutiny to AI",
-      "body": "Bloomberg.com. Single report until confirmed by a filing or a second outlet.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHM5cDBDZy1mQTROUWhTRDlWb0FHX2V2SDZ1RGw2dnA0S0djWnVNSVJKWEFzcEVYQmVHNFh5UEtIZk41bHBWd01nSVJodWJVU0pFYVRjLWdpN0ROQkEyUmx2NFZYZXpXb2hOM05CckcxdC0wdmF1ejRPTXVadS0yQ0hWTXRYZ21nT3VGcGhvYkJVY2tCV3o2a1lPZWRvTHZacUE?oc=5",
       "priority": 2
     }
   ]
